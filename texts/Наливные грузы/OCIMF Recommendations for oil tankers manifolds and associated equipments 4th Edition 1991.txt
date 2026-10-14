@@ -1,0 +1,1572 @@
+
+
+===== СТРАНИЦА 1 =====
+
+
+
+===== СТРАНИЦА 2 =====
+
+© МЕ
+
+Recommendations for
+Oil Tanker Manifolds
+
+and Associated Equipment
+
+(Fourth Edition - August 1991)
+
+Oil Companies International Marine Forum
+
+
+===== СТРАНИЦА 3 =====
+
+Issued Бу the
+Oil Companies International Marine Forum
+First Published 1971
+Second Edition 1975
+Third Edition 1981
+Fourth Edition 1991
+
+ISBN 1 85609 017 5
+
+The Oil Companies International Marine Forum (OCIMF) is a voluntary association of oil companies having an
+interest in the shipment and terminalling of crude oil and oil products. OCIMF is organised to represent its membership
+before, and consult with, the International Maritime Organization and other government bodies on matters relating
+to the shipment and terminalling of crude oil and oil products, including marine pollution and safety.
+
+Notice of Terms of Use
+
+While the advice given in this guide has been developed using the best information currently available, it is
+intended purely as guidance and to be used at the user’s own risk. No responsibility is accepted by the Oil
+Companies International Marine Forum, or by any person, firm, corporation or organisation who or which has
+been in any way concemed with the furnishing of information or data, the compilation. publication, or any
+translation, supply or sale of this guide, for the accuracy of any information or advice given herein or for any
+omission herefrom or for any consequences whatsoever resulting directly or indirectly from compliance
+with or adoption of guidance contained herein even if caused by a failure to exercise reasonable care.
+
+Printed & Published by
+
+WITHERBY & CO. LTD
+
+32/36 Aylesbury Street,
+London ECLR OET, England
+
+
+===== СТРАНИЦА 4 =====
+
+Introduction
+
+The Oil Companies International Marine Forum first published “Standards for Oil Tanker Manifolds and
+Associated Equipment” in 1971. The guidance was subsequently revised in a Second Edition, published in
+1975, primarily to take account of changes in practice reflecting the increased usage of hard arms, the
+introduction of large diameter floating hoses at some SBM’'s and the increased frequency of lightening
+operations.
+
+A Third Edition, published in 1981, contained revised and expanded recommendations relating to lifting
+equipment.
+
+In this Fourth Edition, no substantive changes have been made to the previously-published guidance relating to
+cargo and bunker manifolds and associated equipment. However, in order to take account of the requirement at
+a limited number of terminals for tankers in certain trades to transfer cargo vapours ashore, a new Annex has
+been included containing recommendations for vapour manifolds. It is stressed that these Annexed
+recommendations are provided purely for the guidance of those operators whose ships may trade to terminals
+required to install vapour collection systems. The recommendations supplement the uniform safety design
+standards for marine vapour recovery systems being developed by the International Maritime Organization
+(IMO) and the regulations for marine vapour control systems promulgated by the United States Coast Guard in
+1990. The recommendations relate only to the provision of a uniform manifold arrangement and do not
+address other issues associated with vapour transfer systems such as the need to provide safeguards to prevent
+or control vapour release or to prevent fire and explosion.
+
+
+===== СТРАНИЦА 5 =====
+
+Section
+
+10
+
+11
+
+Contents
+
+Page
+Ship Tonnage Categories 1
+Manifold Position 1
+2:1 Centre of Cargo Manifold
+22 Distance from Ship’s Side
+2.3 Height of Cargo Manifold
+24 Spacing
+2.5 Number
+Spill Tank and Working Platform 2
+3.1 Size and Position
+3.2 Spill Tank Draining
+3.3 Strength of Working Platform
+3.4 Design of Working Platform
+3.5 Access to Working Platform
+3.6 Combined Working Platforms and Spill Tanks
+Cargo Manifold : General 3
+4.1 Material
+4.2 Strength
+4,3 Marking of Manifolds
+44 Loading Arm Jacks
+Cargo Manifold Specification and Fittings 4
+5:1 Valves
+5.2 Distance Pieces
+53 Reducers
+5.4 Blank Flanges
+Deck Fittings 6
+6.1 Cruciform Bollards
+6.2 Bollards (Bitts)
+6.3 Fairleads
+6.4 Deck Rings ог Lugs
+Lightening Arrangements Я
+7.1 Fairleads
+72 Bollards (Bitrs)
+a3 Other Mooring Fairleads
+Hose Support at Ship’s Side Я
+8.1 Curved Plate or Pipe Hose Support
+82 Hose Support Position
+8.3 Hose Support Strength
+Bunker Connections 8
+9,1 Number and Position
+9.2 Spacing
+9.3 Strength
+94 General
+9.5 Presentation Flanges
+96 Other Connections
+Lighting 10
+Lifting Equipment 10
+11 Safe Working Loads
+11.2 — Area of Operation of Lifting Equipment
+11.3. Operating Criteria for Lifting Equipment
+11.4 — Other Criteria for Derrick Systems
+11.5 Conflict of Criteria
+
+
+===== СТРАНИЦА 6 =====
+
+Аппех
+
+Recommendations for Vapour Manifolds
+
+Section Page
+Al General 17
+А.2 Manifold Position 17
+
+A.2.1 Spacing
+A.2.2 Number and Position
+A.2.3 Labelling
+
+А.3 Spill Tank and Working Platform 18
+
+A4 Vapour Manifold : General 18
+A.4.1 Material and Strength
+
+AS Vapour Manifold: Specification and Fittings 18
+A.5.1, Valves and Distance Pieces
+А.5.2 — Reducers/Expanders
+
+
+===== СТРАНИЦА 7 =====
+
+Table
+
+Al
+
+А.2
+
+List of Tables
+
+Minimum Cargo Manifold Spacing
+Loads at Presentation Flange
+
+Cargo Reducers
+
+Working Load of Bollards
+
+Hose Support Curvature
+
+Minimum Bunker Line Spacing
+
+Loads at Bunker Presentation Flange
+Bunker Reducers
+
+Lifting Equipment Safe Working Load
+Minimum Vapour Manifold Spacing
+
+Vapour Reducers/Expanders
+
+Page
+
+10
+
+17
+
+18
+
+
+===== СТРАНИЦА 8 =====
+
+Figure
+
+iS)
+
+Al
+
+A2
+
+А.3
+
+А.4
+
+А.5
+
+А.6
+
+List of Figures
+
+Category A. Standard Manifold Arrangement for 16,000 to
+25,000 DWT Tankers
+
+Category B. Standard Manifold Arrangement for 25,001 to
+60,000 DWT Tankers
+
+Category C. Standard Manifold Arrangement for 60,001 to
+160,000 DWT Tankers
+
+Category D. Standard Manifold Arrangement forTankers over
+160,000 DWT
+
+Loading Arm Jack Bearing Surfaces
+Loading Arm Loads (Definition of Forces)
+Presentation Flange Orientation
+
+Category A. Standard Manifold Arrangement for 16,000 to
+25,000 DWT Tankers including Vapour Lines
+
+Category B. Standard Manifold Arrangement for 25,001 to
+60,000 DWT Tankers including Vapour Lines
+
+Category C. Standard Manifold Arrangement for 60,001 to
+160,000 DWT Tankers including Vapour Lines
+
+Category D. Standard Manifold Arrangement for Tankers over
+160,000 DWT including Vapour Lines
+
+Vapour Manifold Presentation Flange Orientation
+
+Labelling of Vapour Manifolds
+
+Page
+
+1.
+
+13
+
+14
+
+15
+
+16
+16
+16
+
+20
+
+21
+
+22
+
+23
+
+24
+
+24
+
+
+===== СТРАНИЦА 9 =====
+
+1. SHIP TONNAGE CATEGORIES
+
+A 16,000 to 25,000 SDWT tonnes (Fig. 1 refers)
+B 25,001 to 60,000 SDWT tonnes (Fig. 2 refers)
+Cc 60,001 to 160,000 SDWT tonnes (Fig. 3 refers)
+
+D Ships over 160,000 SDWT tonnes (Fig. 4 refers)
+
+2. MANIFOLD POSITION,
+
+2.1
+Centre of Cargo Manifold
+
+The centre of the cargo manifold arrangement should be located at the mid-length of the ship, or as near as
+possible, but in no case should it be more than 3.0m forward or aft of the mid-length. For these purposes, the
+ship’s length should be taken as the length overall.
+
+2.2
+Distance from Ship’s Side
+
+The distance of the presentation flanges inboard from the ship’s side should be 4.6m.
+
+2.3
+Height of Cargo Manifold
+2.3.1. The centres of the manifold presentation flanges should be located at least 700mm above the horizontal
+projection of the top of the hose support at the ship’s side. (See Section 8).
+
+2.3.2 The height of the centres of the presentation flanges above the deck should not exceed 2.1m.
+
+2.3.3 The working platform should be fitted to allow 900mm between the level of the platform and the centres
+of the presentation flanges. (See Section 3.)
+
+2.4
+Spacing
+
+The minimum spacing of the cargo manifold as measured centre to centre along the line of presentation flanges
+should be in accordance with Table 1 below.
+
+TABLE 1: MINIMUM CARGO MANIFOLD SPACING
+
+Ship Tonnage Category Cargo Manifold Spacing
+Centre to Centre
+A 1.5 metres
+B 2.0 metres
+С 2.5 metres
+D 3.0 metres
+
+2.5
+Number
+
+Similar manifold arrangements should be provided on each side of the ship.
+
+
+===== СТРАНИЦА 10 =====
+
+3. SPILL TANK AND WORKING PLATFORM
+
+All ships should be provided with permanently fitted working platforms and spill tanks under the cargo and
+bunker manifold connections.
+
+3.1
+Size and Position
+
+Length — The spill tank and the working platform should extend beyond the bunker connections at the forward
+and aft ends on the manifold. On ships provided with vapour return facilities (see Annex), the spill tank and the
+working platform should extend beyond the vapour manifold connections.
+
+Width — The spill tank and working platform should have a width of approximately 1.8m and should be so
+positioned that about 1.2m is outboard of the reducer presentation flanges.
+
+Depth — The spill tank should have a minimum depth of about 300mm.
+
+Vertical Positioning — The working platform should be situated 900mm below the level of the centres of the
+reducer presentation flanges and the spill tank should be located below the working platform.
+
+3.2
+Spill Tank Draining
+
+Suitable means of draining the spill tank should be provided. When considering draining facilities, the
+particular type of tanker, its trading pattern and the cargoes likely to be carried, should be taken into account.
+
+3.3
+Strength of Working Platform
+
+The strength and construction of the working platform and supports should be such that all normal loads
+encountered during hose connection, cargo handling and disconnection cau be adequately catered for. The grids
+forming the working surface should be capable of withstanding a load of at least 1 tonne/m?. (See also Section 4.4).
+
+3.4
+Design of Working Platform
+The working platform surface should be made from open mesh grating to allow free passage of any oil spilt
+
+from the manifold into the spill tank.
+
+The grid should have a non-slip finish and should be removable, in easily handled sections, to permit access to
+the spill tank.
+
+The outboard uppermost edge of the working platform/spill tank should be fitted with a 50mm radius rounded
+edge to protect cargo and bunker hoses during connection and disconnection.
+
+3.5
+Access to Working Platform
+
+A Steel stairway of suitable size should be provided at the forward and aftermost ends of the platform leading
+to the deck.
+
+3.6
+
+Combined Working Platforms and Spill Tanks
+
+Where the working platform and spill tank have been designed as a combined unit, the dimensions and strength
+should conform with those outlined in 3.1 and 3.3. In addition, the other provisions in Section 3 should be followed
+as closely as possible, including those regarding the provision of hose protection on leading edges.
+
+
+===== СТРАНИЦА 11 =====
+
+. CARGO MANIFOLD:GENERAL
+
+4.1
+Material
+
+The whole cargo manifold, including the manifold support, should be of steel and should preferably conform to
+the requirements of ANSI B31.3 - Chemical Plant and Petroleum Refinery Piping, 1987.
+
+4.2
+Strength
+
+The cargo manifold supports, distance pieces and reducers should be capable of withstanding the loads at the
+presentation flange as outlined in Table 2 below. (See also Figure 6).
+
+TABLE 2 : LOADS AT PRESENTATION FLANGE
+
+Tonnage Category/ Loads
+
+A B cD
+Vertical Force (tonnes) 5 10 15
+Lateral Force (tonnes) 2 3 4
+Axial Force (tonnes) 5 10
+Moment (tonne metres) 5 10 15
+
+Forces based on maximum loads
+imposed by unsupported loading 16" 20" 24"
+arms of stated size
+
+4.3
+Marking of Manifolds
+
+All manifolds should be permanently and clearly marked with the loads that they have been designed to
+withstand.
+
+4.4
+Loading Arm Jacks
+
+In all normal circumstances, manifolds constructed according to these recommendations should obviate the need
+for using loading arm jacks. Therefore, it should only be necessary to build working platforms to the strength
+parameters contained in Section 3.3,
+
+If loading arm jacks are used, it will be necessary to provide additional stiffening or temporary means to
+distribute the forces by using timber or other suitable material as pads for the base of the loading arm jacks, The
+particular areas, over the working platform and deck, which are most likely to accept these occasional jack loads
+are shown in Figure 5. In order to guard against possible damage to a working platform from this cause, owners
+may wish to permanently strengthen the platform. In this case, the area outlined in Figure 5 should be capable
+of withstanding 100 tonnes per square metre.
+
+
+===== СТРАНИЦА 12 =====
+
+5. CARGO MANIFOLD SPECIFICATION AND FITTINGS
+
+5.1
+
+Valves
+5.1.1 Material
+The cargo manifold valves should be made of steel and be fitted with flanges conforming preferably to B.S.
+1560 or ANSI B16.5.
+5.1.2 Actuators
+Cargo manifold valve actuators, when fitted, should be placed on the inboard side of the valve to avoid damage
+and overcrowding during hose handling operations.
+5.2
+Distance Pieces
+5.2.1 Material
+
+Steel distance pieces with outboard flanges conforming to B.S.1560 or ANSI B16.5 should be fitted outboard of
+the manifold valves and immediately inboard of the reducer. The inboard flanges should preferably conform to
+B.S. 1560 or ANSI В16.5.
+
+5.2.2 Length
+
+The length of the distance pieces should be kept to a minimum. However, their length should be adequate to
+provide sufficient room for the following:-
+
+i) To ensure that sufficient space is available for bolt withdrawal from the valve/distance piece and distance
+piece/reducer flanges. A minimum of 200mm should be allowed between each flange and the manifold
+support structure.
+
+ii) To accommodate the manifold support.
+
+iii) To accommodate other line connections including stripping discharges and drain lines which may be
+required by owners. Such lines, when incorporated, should be fitted inboard of the manifold supports.
+5.3
+Reducers
+5.3.1 Material
+All reducers should be made of steel and fitted with flanges that conform to B.S. 1560 or ANSI В16.5. The inboard
+flange should be made to bolt directly to the distance piece (see Section 5.2).
+
+The outboard flange on all reducers should be known as the “presentation flange”.
+
+5.3.2 Length
+
+All reducers should have an overall length of 500mm in order to allow sufficient space for the operation of
+quick acting couplers.
+
+5.3.3 Lifting Lugs
+
+All reducers should be fitted with a lifting lug. This lug should be placed as near to tne centre of balance as
+possible and at a location which should not interfere with either the operation of quick acting couplers or with
+the bolting up of flanges.
+
+
+===== СТРАНИЦА 13 =====
+
+5.3.4 Presentation Flanges
+
+The number of reducers carried and the size of presentation flanges should be in accordance with Table3. In
+normal circumstances, the principal cargo reducers should be kept bolted to the distance pieces. On the
+occasions when a smaller presentation flange is required, the semi-permanent principal cargo reducers should
+be removed and replaced by the required size reducers from the onboard stock.
+
+5.3.5 Material and Design
+
+All the presentation flanges shall be kept vertical and have plain (flat) faces, i.e. raised faced flanges should not
+be used. Gasket contact surfaces should be machined and finished with a continuous spiral groove in
+accordance with B.S. 1560 or ANSI B16.5
+
+5.3.6 Type of Flanges
+
+The presentation flanges should be “welded neck” flanges in order to provide a clear inner diameter for the
+insertion of alignment probes. If “slip on” flanges are fitted, the internal weld should be ground flush to
+conform to the nominal bore specification outlined in Table 3. Flange bolt holes should be aligned as shown in
+Figure 7.
+
+TABLE 3: CARGO REDUCERS
+Principal Fittings Reserve Reducer Stocks
+Presentation Presentation Presentation Presentation
+Ship Number Flange Number Flange Number Flange Number Flange
+
+Tonnage of Nominal of Nominal of. Nominal of Nominal
+Category Reducers Bore Reducers Bore Reducers Bore Reducers Bore
+
+A 8 12 4 8" 4 10" — -
+
+В 8 16" 4 8" 4 10" 4 42"
+
+с 8 16" 4 8" 4 10" 4 12"
+
+D 8 20” 4 12" 4 16' = -
+
+NOTE: Thenumbersof principal and reserve reducers quoted above are based on the assumption that four manifold connections are provided on each side.
+
+5.4
+Blank Flanges
+
+Each presentation flange of the principal reducers should be provided with a removable steel blank flange fitted
+with handles.
+
+
+===== СТРАНИЦА 14 =====
+
+6. DECK FITTINGS
+
+This section covers the design of the deck fittings which should be provided for hoisting aud hanging off hoses
+at sea berths.
+
+6.1
+Cruciform Bollards
+
+Sets of cruciform bollards, 600mm in height, should be welded to the deck on each side of the ship. The
+bollards should be fitted mid-way between each pair of cargo manifolds, allowing maximum clear area
+between the working platform and ship’s side and yet giving sufficient room for safe access (about 300mm)
+between bollard and spill tank. The working load of these bollards should be as detailed in Table 4.
+
+TABLE 4 : WORKING LOAD OF BOLLARDS
+Ship Tonnage Category Working Load
+ABC 25 tonnes
+D 40 tonnes
+6.2
+
+Bollards (Bitts)
+
+Two pairs of bollards, 300mm in diameter for tonnage category A, B and C ships and 350mm in diameter for
+tonnage category D ships, should be provided on each side of the ship, one pair forward and one pair aft of the
+manifold.
+
+These bollards should be conveniently placed near to, but outside of, the deck area between the manifold and the
+ship’s side and in the same longitudinal line as the cruciform bollards (see Section 6.1).
+
+The sets of boards should be aligned and positioned as shown in Figures 1-4 and the working load should
+conform to Table 4.
+
+6.3
+Fairleads
+
+Fairleads with clear openings 400 x 250 mm should be provided at the ship’s side for hose chains and hose
+hoisting as detailed below:
+
+a) For ship tonnage categories A and B - two fairleads having a working load of 25 tonnes should be
+provided on each side directly in line with the forward and aftermost cargo presentation flanges.
+
+b) For ship tonnage categories C and D - fairleads having a working load of 40 tonnes should be
+provided on each side directly in line with each cargo manifold presentation flange.
+
+For ships in category D, a clear run should be provided along the ship’s deck to deck winches for
+leading the hose hoisting wires which are occasionally used at some sea terminals.
+
+6.4
+Deck Rings or Lugs
+
+Deck rings or lugs of 15 tonnes working load should be fitted on each side of the ship in the following
+positions:-
+
+i) On the deck adjacent to each bunker manifold and in the same longitudinal line as the cruciform
+bollards (see Section 6.1)
+
+ii) On the deck adjacent to the bollards described in 6.2 (see plans, Figures 1 - 4).
+iii) On the deck adjacent to each fairlead described in 6:3:
+
+iv) On the deck adjacent to the hose support at the ship’s side opposite each bunker connection.
+
+
+===== СТРАНИЦА 15 =====
+
+7. LIGHTENING ARRANGEMENTS
+
+Note: these recommendations are only applicable to ships within tonnage category D.
+7.1
+Fairleads
+
+Two additional sets of heavy duty closed fairleads with clear openings of 500 x 400 mm should be positioned on
+the starboard side of the ship. These fairleads should be located 35m forward and aft of the mid-length of the ship
+or as close to this position as possible. All faitleads associated with ship to ship transfer operations should be
+smoothly finished on both inboard and outboard faces to prevent chafing of ropes.
+
+7.2
+Bollards (Виз)
+
+Twin sets of bollards of 550mm diameter should be located inboard of the fairteads (section 7.1) for handling the
+moorings used during lightening operations.
+
+7.3
+
+Other Mooring Fairleads
+
+All other fairleads used during mooring should be of the closed type to avoid difficulties occurring owing to the
+large relative changes of freeboard experienced during lightening operations.
+
+8. HOSE SUPPORT AT SHIP’S SIDE
+
+Means should be provided to adequately support hoses in way of the ship’s side abreast of the manifolds.
+
+8.1
+Curved Plate or Pipe Hose Support
+
+In order to protect the hose from sharp edges and obstructions. a horizontal curved plate or pipe section should
+be fitted at the ship’s side and above the fairleads described in Section 6.3.
+
+The curved plate or pipe section should be fitted with its rounded surface uppermost and in such a position that
+the maximum surface area is presented to a hose coming on board from the sea.
+
+The radius of curvature of this plate or pipe section should not be less than that quoted in Table 5 below.
+
+TABLE 5: HOSE SUPPORT CURVATURE
+Ship Tonnage Category Radius of Curvature
+АВС 150 mm
+р 300 mm
+8.2
+
+Hose Support Position
+
+The hose supports should lie in the fore and aft axis at the ship's sides and be at least 700mm below the level of
+the centres of the presentation flanges. The hose support should extend beyond the centre of the bunker
+connections or, if applicable, vapour connections (see Annex), at the forward and aft ends of the manifold.
+
+8.3
+Hose Support Strength
+
+a) For ship tonnage categories A and B - hose supports should be sized to cater for a minimum vertical
+load of two hoses each of 10 tonnes.
+
+b) For ship tonnage category C - hose supports should be sized to cater for a minimum vertical load of
+two hoses each of 20 tonnes.
+
+с) For ship tonnage category D - hose supports should be sized to cater for a minimum vertical load of
+two hoses each of 25 tonnes.
+
+
+===== СТРАНИЦА 16 =====
+
+9. BUNKER CONNECTIONS
+
+9.1
+Number and Position
+
+Four bunker connections should be provided, two on each side of the ship, with presentation flanges 4.6m from
+the ship’s side and at the same height above the deck as the cargo manifold. In order that common pipe support
+arrangements can be utilised, it is acceptable for the base of the bunker connection to be at the same height as
+the base of the cargo connections.
+
+One bunker connection should be located forward of the manifold and one located aft of the manifold on each
+side of the ship.
+
+9.2
+Spacing
+The minimum spacing between the bunker presentation flanges and the nearest cargo manifold, as measured
+from centre to centre, should be in accordance with Table 6 below.
+
+TABLE 6 : MINIMUM BUNKER LINE SPACING
+
+Ship Tonnage Category Spacing
+A 1,5 metres
+BCD 2.0 metres
+
+9.3
+Strength
+
+The bunker manifold supports, distance pieces and reducers should be capable of withstanding the loads as
+outlined in Table 7. (See also Figure 6).
+
+TABLE 7 : LOADS AT BUNKER PRESENTATION FLANGE
+
+Tonnage Category/Loads
+
+AB cD
+Vertical Force (tonnes) 3 5
+Lateral Force (tonnes) 1 2
+Axial Force (tonnes) 2 5
+Moment (tonne metres) 3 5
+
+Forces based on maximum loads
+imposed by unsupported loading 12" 16"
+arms of stated size
+
+9.4
+General
+
+Therecommendations for the cargo manifolds contained in Section 5 should also be followed in the bunker manifold
+design except the length of reducers may, where appropriate, be reduced to 300mm.
+
+
+===== СТРАНИЦА 17 =====
+
+9.5
+
+Presentation Flanges
+
+9.5.1 Number and Size
+
+The number of reducers and the size of bunker presentation flanges for the various tonnage categories should
+be in accordance with Table 8.
+
+In normal circumstances and depending upon the particular trade, the principal bunker reducer, as detailed in
+Table 8, should be kept bolted to the distance pieces. On the occasions when a smaller prescntation flange 15
+required, the semi-permanent principal reducers should be removed and replaced by the required size reducers
+from the onboard stock.
+
+9.5.2 Material, Design and Type of Flanges
+
+The material, design and type of flanges should conform with the recommendations contained in Sections 5.3.5
+
+and 5.3.6.
+TABLE 8: BUNKER REDUCERS
+Principal Fittings Reserve Reducer Stocks
+Presentation Presentation Presentation Presentation
+Ship Number Flange Number Flange Number Flange Number Flange
+Tonnage of Nominal of Nominal of Nominal of Nominal
+Gategory Reducers Bore Reducers Bore Reducers Bore Reducers Bore
+A 4 6" 1 8" 1 10" - -
+B 4 6 1 8" 1 10" - -
+Cc 4 8 1 10" 1 6" 1 12"
+D 4 8" 1 10" 1 6" 1 12"
+9.6
+
+Other Connections
+
+It is desirable that filling connections for Diesel Oil, Lube Oil and Fresh Water should be located in close
+proximity to the cargo and bunker manifolds on both the port and starboard sides.
+
+
+
+===== СТРАНИЦА 18 =====
+
+10. LIGHTING
+
+The levels of illumination in way of the manifold should not be less than 50 lux when measured on a parallel
+with and 1m above the deck.
+
+This illuminated area should extend overside to the waterline in light displacement in order to provide
+illumination for handling hoses at sea berths.
+
+Levels of illumination over the rest of the working deck should have an average minimum lighting intensity of
+10 lux when measured on a parallel with and 1m above the deck.
+
+11. LIFTING EQUIPMENT
+
+11.1
+
+Safe Working Loads
+
+Ships should be provided with lifting equipment having safe working loads as detailed in Table 9. The safe
+working load of the lifting gear should be established in accordance with the requirements of the ship
+classification societies and should include a normal allowance for impact load.
+
+TABLE 9 : LIFTING EQUIPMENT SAFE WORKING LOAD
+Ship Tonnage Category Minimum SWL
+AB 10 tonnes
+15 tonnes
+D 20.tonnes
+11.2
+
+Area of Operation of Lifting Equipment
+The lifting equipment should be able to achieve the appropriate SWL as shown in Table 9 when plumbing a point
+one metre outboard from the ship’s side over the full length of the cargo manifold including bunker and, if appropriate,
+vapour connections. It should also be able to provide а clear lift above the deck of at least 10 metres to any manifold
+connection.
+11,3
+Operating Criteria for Lifting Equipment
+
+The lifting equipment fitted should be able to operate as follows:
+® to top and lower under load and be fail-safe in the event of loss of power when topping or lowering;
+
+@ to slew both ways by power (not manually) under load, both when topping and lowering and when not
+topping and lowering;
+
+e the hook and runner should run free without manual intervention under conditions of no load;
+
+@ to lift and lower at a rate at the hook of between 10 and 15 metres per minute under load and
+approximately 20 to 30 metres per minute under conditions of no load,
+
+10
+
+
+===== СТРАНИЦА 19 =====
+
+@ to operate smoothly during lifting or lowering to a fineness of control of a maximum of one inch at the
+hook. The equipment should have a similar smoothness of operation when slewing. (This
+recommendation is particularly important for safety of operations when matching hoses to the manifold,
+fitting heavy reducing pieces, etc.);
+
+© to be operated from a central control position for all functions - lifting and lowering, topping and
+lowering and slewing. (It is desirable that the control position be duplicated at the ship’s side to enable
+the operator to see all stages of the operation);
+
+@ to present the hook or shackle on a single part of wire at the water’s edge.
+(This recommendation is aimed to minimise the danger to personnel, either in a work boat, or ashore, or
+on the ship, from a large block with several turns of wire close to them. As an interim measure, a
+suitably-sized 3-metre pennant may be fitted under the block).
+11.4
+
+Other Criteria for Derrick Systems
+
+All slewing operations should be powered by a single winch.
+
+All operations-lifting and lowering, topping and lowering and slewing - should be carried out by a single winch
+complex,
+
+11.5
+Conflict of Criteria
+
+Requirements of the Flag State or International regulations may be in excess of the above recommendations and
+should be observed in the event of conflicting criteria.
+
+11
+
+
+===== СТРАНИЦА 20 =====
+
+Distance fromm manifold support
+
+10 flanges to be at least 200mm
+Height to which lifting
+equipment must operate
+
+500 [+ 4600
+3
+HE РЕН т
+600 т 150R р 10т
+2100 пах
+Spill tank ae | |
+
+rae—— 1800 - ==
+
+Outboard line
+to which lifting
+equipment must
+Open mesh grating plumb
+
+working surface capable
+
+of being removed for access
+to spill tank below
+
+approx
+Bunker a р oe | aa
+ben xine Ee ra
+al
+1500min
+on
+fe кт
+Cargo Г 1276 300 Е.
+Line Bren een eee ь a ise aoe 1 Fairlead
+an ft. Lea [es
+1800min 8 400
+Cargo | Ce г
+Ling т СТОИТ pane
+a
+
+Manitold ф.
+
+cho
+
+а +
+
+FIG. 1-CATEGORY А”
+STANDARD MANIFOLD ARRANGEMENT
+FOR 16,000 TO 25,000 DWT. TANKERS
+
+12
+
+
+
+===== СТРАНИЦА 21 =====
+
+Distance from manifold support
+40 flanges to. bo at least 200mm
+
+Height to which пита
+-eguipment must operate
+
+‘4600 —
+900 : 180R. 1. | 407M.
+о — | cy 2100: max
+Д о
+|= 1800 ==
+: im
+- Е
+Opermenh ‘prating 4
+: МОК surface capable :
+at bein А ‘ore access: en i
+40 spilt tank below Q equipment must
+» 2 plumb
+—
+seems | 1
+: | as
+Bunker р Ai = Га ря Гы
+Line: [зави РУ | id
+‚Робот,
+
+Cargo г
+Line”
+
+i
+fr
+a
+
+y g
+ТР
+=
+
+/
+
+2000inin 8 400
+
+= = 16”$
+
+И
+
+‘Manifold ¢
+
+co
+
+FIG. 2 CATEGORY “В”
+STANDARD MANIFOLD'ARRANGEMENT ——
+FOR 26.001 T0 60,000 DWT. TANKERS —
+
+13
+
+
+
+===== СТРАНИЦА 22 =====
+
+Distance from. manifold support =: : :
+fo flanges to be at least 200mm Height to which iting
+_-6quipment must operate.
+
+‘Spill tank
+
+a i hs
+
+Open mesh grating - i Е
+
+working зы асе capable oe as
+: Outboard line
+-ofbeing removed for access О
+
+зо врИалк below: equipment must
+$ plumb.
+=
+
+: |
+: 1200
+approx
+Bunker -: г. [aes Paine
+Line
+2000min
+ря и
+Cargo ГГ vi
+Line ЕЕ ЖЕН 16"9 ИВ
+| 4
+4 — | ani
+aan Fairleads
+2500min 400
+iF
+{4 у
+Е] Can fed
+Manifold ¢
+
+FIG, 3-САТЕСОВУ “С”
+STANDARD MANIFOLD ARRANGEMENT
+FOR 60,001 TO 160,000 DWT. TANKERS.
+
+14
+
+
+
+===== СТРАНИЦА 23 =====
+
+Distance-from manifold support
+to flanges to be at least.200mm
+
++
+
+<< 500
+
+Spill tank
+
+4600
+
+a сан
+
+906
+
++
+
+He
+
+mas
+
+300 RR.
+A
+С
+
+д
+
+| -—— 1600 —=
+
+Open mesh grating
+working surface capable
+
+to spill tank below
+
+Height to which jilting
+equipment must operate
+
+10m
+
+2100'max
+
+|
+
+Bunker. = |} — 4
+Line
+
+5$
+28
+тт.
+4
+й
+Дт
+
+ao000min,
+
+page 4 ES ЖЕ
+
+of being removed for access WRENN
+equipment must
+$ plumb
+Е
+\
+approx
+ry
+vi
+20° 8 КА
+aq
+— ater |
+—— Fartloads
+В 400
+= cH
+Ц
+Hy LS fey
+Manifold ¢
+Egle AE te eg -.В еее
+
+|
+
+FIG. 4- CATEGORY "'D’
+STANDARD MANIFOLD ARRANGEMENT
+FOR TANKERS OVER 160,000 DWT
+
+15
+
+
+
+===== СТРАНИЦА 24 =====
+
+Vertical
+
+Loading
+
+fem Axial :
+Е «4 | Moment
+tii
+
+ae
+
+Loading ari,
+bearing surfaces
+
+а
+‘ В Laterat
+
+Working
+
+platform Deck
+
+cy Е
+
+NOTE: Dimensions given are applicable to ati
+tonnage categories NOTE: Maximum moments may be found
+outside of the vertical plane
+
+Liane an erin |
+
+FIG. 5 FIG.6
+LOADING ARM JACK LOADING ARM LOADS
+BEARING SURFACES (DEFINITION OF FORCES)
+
+FIG. 7
+PRESENTATION FLANGE ORIENTATION
+
+Cortect orientation of presentation
+flange boil holes about а vertical plane
+
+16
+
+
+
+===== СТРАНИЦА 25 =====
+
+Recommendations for Vapour Manifolds
+
+Note: The following recommendations are provided for the guidance of tanker operators whose ships may trade
+to terminals where it is a requirement for cargo vapours to be transferred ashore.
+
+A.1 GENERAL
+
+This Annex only provides information relating to vapour manifolds that is additional to the recommendations
+for cargo manifolds and associated equipment. Reference should therefore be made to the relevant section of
+the text for cargo manifolds for details of tonnage categories, manifold position and materials.
+
+A.2 MANIFOLD POSITION
+
+А.2.1 Spacing
+
+The minimum spacing of the vapour manifolds as measured from centre to centre from the bunker lines along
+the line of presentation flanges should be in accordance with Table A.1 below.
+
+TABLE A.1: MINIMUM VAPOUR MANIFOLD SPACING
+
+Ship Tonnage Category Vapour Manifold Spacing
+Centre to Centre
+A 1.5 metres
+BCD ' 2.0 metres
+
+For retrofit installations aboard ships where significant obstructions prevent the location of the vapour manifolds
+in accordance with Table A.1, the following alternative arrangements may be considered,
+
+a) The vapour manifolds may be located fore and aft of the bunker lines at a lesser distance than that
+prescribed in Table А.1. However, the distance from the bunker line should not be less than 1.0 metre.
+b) Should no other arrangement be possible, the vapour manifolds may be located directly above the
+
+centrelines of the existing bunker lines (‘piggy backed’). However, it should be noted that this
+arrangement may restrict the ship’s capability to load bunkers concurrently with vapour recovery
+operations. If an existing working platform is to be used with this arrangement, the height of the
+centre of the vapour line’s presentation flange above the working platform should not exceed 1.5
+metres.
+
+A.2.2 Number and Position
+
+Four vapour connections should be provided, two on each side of the ship, with presentation flanges at the same
+height above the deck as the cargo manifold. One vapour connection should be located forward of the manifold
+and one located aft of the manifold on each side of the ship.
+
+A.2.3 Labelling
+
+The first 1.0 metre inboard of each manifold connection should be painted on its exterior surfaces, excluding
+flange faces. The painted area should be divided into three bands with the outboard and inboard bands being red
+in colour and 100mm wide and the centre band being yellow in colour. In addition, the word ‘VAPOUR’ should
+be painted in black letters at least 50mm high on both the forward and aft sides of all reducers, both principal and
+reserve, in approximately the 2 o’clock and 10 o'clock positions. (see Figure A.6)
+
+17
+
+
+===== СТРАНИЦА 26 =====
+
+AZSSPILL TANK AND WORKING PLATFORM
+
+The spill tank and working platform provided in accordance with Section 3 should extend beyond the vapour
+connections at the forward and aft ends of the manifold.
+
+'К.4 VAPOUR MANIFOLD:GENERAL
+
+А.4.1
+Material and Strength
+
+The whole vapour manifold, including the manifold support, should be constructed according to the
+recommendations contained in Section 4.1 for cargo manifolds. The manifold supports, distance pieces and
+reducers should be capable of withstanding the loads at the presentation flange as detailed in Table 2.
+
+A.5 VAPOUR MANIFOLD:SPECIFICATION AND FITTINGS
+
+А.5.1
+Valves and Distance Pieces
+Valves and distance pieces should be provided in accordance with the recommendations contained in Sections
+5.1 and 5.2 for cargo manifolds.
+А.5.2
+Reducers/Expanders
+
+All reducers/expanders should be constructed in accordance with the recommendations contained in Section 5.3.
+
+А.5.2.1 Presentation Flanges
+
+The number of reducers/expanders and the size of presentation flanges for the various tonnage categories should
+be in accordance with Table A.2.
+
+In normal circumstances, the principal vapour reducers/expanders should be kept bolted to the distance pieces.
+On the occasions when a smaller or larger presentation flange is required, the semi-permanent principal
+reducers/expanders should be removed and be replaced by the required size from the onboard stock. No more
+than one reducer/expander should be fitted outboard of the distance piece at any time.
+
+TABLE A.2 VAPOUR REDUCERS/EXPANDERS
+PRINCIPAL FITTINGS RESERVE REDUCER STOCKS
+Tonnage Number of Presentation
+Category Reducers/ Flange
+Expanders Nominal
+Bore
+
+A 4 12" 2x 8"
+
+B 4 12" 2x 16"
+
+С 4 16" 2x 12"
+
+D 4 16" 2x 12"
+
+
+
+===== СТРАНИЦА 27 =====
+
+А.5.2.2. Material and Design
+All presentation flanges should conform to ANSI B16.5. They should be kept vertical and should have plain (flat)
+faces, i.e. raised faced flanges should not be used.
+
+In order to prevent the possible misconnection of the vapour manifold to a liquid loading line, a mechanical
+keying arrangement should be provided for the presentation flanges as follows (see also Figure A.5):
+
+1) The bolt locations should be arranged so that two bolts straddle the 12 o’clock position at the top of the
+flange face.
+2) Onecylindrical stud should be permanently attached to each of the presentation flange faces at the 12 o’clock
+
+position on the respective flange bolt circles. This cylindrical stud should project horizontally outboard
+perpendicular to the flange face and be centred on the same bolt circle as defined in ANSI В16,5. Thediameter
+of the cylindrical stud should be 12.7mm (0.5 inches) and it should be at least 25.4mm (1.0 inches) long.
+
+А.5.2.3.. Types of Flanges
+
+Flanges should conform to the recommendations contained in Section 5.3.6.
+
+А.5.2.4 Blank Flanges
+
+Each presentation flange of the principal reducers/expanders should be provided with a removable steel blank
+flange fitted with handles. Each blank flange should be painted yellow on its exteriour surfaces (excluding the
+inboard — facing flange face). To accommodate the lug on the vapour line presentation flange, each blank
+flange should have an extra hole located in the 12 o’clock position on the flange’s bolt hole circle. The diameter
+of the hole should be 15.88 mm (0.625 inches).
+
+19
+
+
+===== СТРАНИЦА 28 =====
+
+Cargo.
+Line
+
+Cargo
+Line
+
+Bunker
+
+Vapour
+Line т
+
+Line
+
++
+
++
+
+|
+
+| Manifotd Support
+
+Spill Tank
+
+1500 1500 «— 1500
+
+4600 min min min
+Е
+
+| 1 7 ] Hose Support
++
+'
+Cargo Cargo Bunker Vapour
+Line Line Line Line
+
+2100
+
+max
+
+Manifold
+
+¢
+
+FIG. АЛ — CATEGORY “А”
+STANDARD MANIFOLD ARRANGEMENT FOR 16,000
+TO 25,000 OWT TANKERS INCLUDING VAPOUR LINES
+
+20
+
+
+
+===== СТРАНИЦА 29 =====
+
+Cargo Cargo Bunker Vapour
+Line Line ine Line
+
+hob bo
+шо)
+
+{ ] | Manifold Support
+. ь
+Be UT тает т
+= а == =
+а ele heh
+| ыы | & Spill Tank
+Й | | |
+4600 : и И, —
+
+$ ] Hose Support
+
+Cargo Cargo Bunker Vapour
+Line Line Line Line
+
+т | 2100
+
+= и т
+
+Manifold
+
+€
+
+АС. A.2 — CATEGORY “В”
+STANDARD MANIFOLD ARRANGEMENT FOR 25,001
+TO 60,000 OWT TANKERS INCLUDING VAPOUR LINES
+
+21
+
+
+
+===== СТРАНИЦА 30 =====
+
+00
+
+Cargo Cargo Bunker Vapour
+Line Line Line Line
+Hl
+|
+| ‘ 1 Е
+|
+1 os x х
+2 | Manifold Support
+—- ил 8 Be
+"
+| BS
+
+с №
+
+« 2500 2000 __, 2000
+min a mia
+
+Spill Tank
+
+] Hose Support
+
+Bunker
+
+Cargo
+Line
+
+Line
+
+Cargo
+Line
+
+Vapour
+Line
+
+Manifold
+
+FIG. A.3 — CATEGORY “С”
+STANDARD MANIFOLD ARRANGEMENT FOR 60,001
+TO 160,000 DWT TANKERS INCLUDING VAPOUR LINES
+
+2100
+SaaS max
+a ae ee Spill tank |
+——
+|
+|
+
+22
+
+
+
+===== СТРАНИЦА 31 =====
+
+Cargo
+
+Cargo
+Line
+
+Line
+
+Vapour
+Line
+
+Manifold Support
+
+Spill Tank
+
+H
+
+|
+
+i
+
+1
+
++
+
+1
+
+й 3000 2000 2000
+
+| < min min min
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+1
+
+1
+
+: ] Hose Support
++
+
+|
+
+р
+
+|
+
+i
+
+|
+
+|
+
+р
+
+'
+
+|
+
+|
+
+|
+
+| Cargo Cargo Bunker Vaoour
+
+1 Line Line Line Line
+
+|
+
+|
+
+|
+
+ ©- -@©- © © --
+| [
+
+| | ! | | 2100
+ООО — max
+Dieser ees 22 Spill tank
+
+Manifold
+
+4
+
+FIG, А.4 — CATEGORY “О”
+STANDARD MANIFOLD ARRANGEMENT FOR TANKERS
+OVER 160,000 OWT INCLUDING VAPOUR LINES
+
+23
+
+
+
+===== СТРАНИЦА 32 =====
+
+12.7mm DIAM, STUD PROJECTING
+OUTWARD @ 12 O'CLOCK.
+
+Reducer
+
+FIG, А.5
+VAPOUR MANIFOLD PRESENTATION FLANGE ORIENTATION
+
+Stencil
+Hee Red Yellow Red
+
+о 800. 100———
+
+a, aa
+
+Y vaPQUR ||| Jl
+~~ Г 50 | Ц
+
+4 500—— +]
+
+1000
+
+АС. A.6
+LABELLING OF VAPOUR MANIFOLDS
+
+24
+
