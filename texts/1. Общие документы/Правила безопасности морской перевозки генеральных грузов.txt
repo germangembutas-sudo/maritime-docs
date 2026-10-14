@@ -1,0 +1,3043 @@
+                                     Министерство транспорта Российской Федерации
+                                     The Ministry of Transport of the Russian Federation
+
+
+
+
+                                                 ПРАВИЛА
+                                              БЕЗОПАСНОСТИ
+                                            МОРСКОЙ ПЕРЕВОЗКИ
+                                                  ГРУЗОВ
+
+
+
+                                                    RULES
+                                              FOR SAFE CARRIAGE
+                                                 OF CARGOES
+                                                    BY SEA
+
+
+
+
+                          Санкт-Петербург
+                          ЗАО Ц НИИМ Ф
+                                                         Й  2003
+                                                                                     Saint-Petersburg
+                                                                                      JS C o .C N IM r
+
+сертификация в строительстве
+          РАЗРАБОТАНЫ                        Центральным научно-исследовательским и
+                                             проектно-конструкторским институтом
+                                             морского флота (ЗАО ЦНИИМФ)
+
+                                             Заместитель генеральною директора
+                                             по научной работе,
+                                             канд. техн. наук           Ю. М. Иванов
+
+                                            Руководитель темы,
+                                            ответственный исполнитель,
+                                            канд. техн. наук           Е. Б. Карпович
+
+                ВНЕСЕНЫ                     Департаментом безопасности мореплавания
+                                            Государственной службы морского флота
+                                            России                      М. И. Суслин
+
+         УТВЕРЖДЕНЫ                         Приказом от 21.04.2003 г. № ВР-1/п
+                                            Первого заместителя Министра Транспорта
+                                            Российской Федерации          В. В. Рукша
+
+    ЗАРЕГИСТРИРОВАНЫ                        Министерством юстиции Российской
+                                            Федерации 27 июня 2003 г. За № 4835
+
+        ВСТУПИЛИ В СИЛУ                     24 ноября 2003 г.
+
+
+
+
+                                 Издание подготовлено ЗАО "ЦНИИМФ'*
+                             191015, Санкт-Петербург, ул Кавалергардская, д 6
+                              тел./факс. (812) 327-2638: e-mail csl'r/'cniimf ru
+                                               ww\s cniimf.ru
+
+                    При возникновении разногласий в толковании положений Правил
+                            официальным является текст на русском языке
+
+
+
+
+ISBN 5-8072-0062-4
+
+€> ЗАО ЦНИИМФ, содержание, перевод и оформление, 2003
+Воспроизведение любым способом без разрешении Государственной службы морского флота
+России и ЦНИИМФ воспрещено
+
+Copyright ©JSCo CNIIMF. 2003
+All rights reserved No part of this publication may be reproduced u ithout prior permission in writing
+from the State Maritime Administration of the Russia and CNIIMF
+        МИНИСТЕРСТВО ТРАНСПОРТА РОССИЙСКОЙ ФЕДЕРАЦИИ
+                      (М ИНТРАНС РОССИИ)
+
+                                      ПРИКАЗ
+
+     21.04 2003                          г. Москва                 №       ВР-1/п
+
+
+
+           Об утверждении Правил безопасности морской перевозки грузов
+
+
+
+
+        В соответствии с пунктом 2 статьи 5 и статьей 2 Федерального закона от
+
+30    апреля      1999 г.   № 81-ФЗ   «Кодекс   торгового   мореплавания   Российской
+
+Федерации» (Собрание законодательства Российской Федерации, 1999, № 18,
+
+ст. 2207; 2001, № 22, ст. 2125) и на основании Постановления Правительств г
+
+Российской Федерации от 29 ноября 2002 г. № 854 «О внесении дополнения г
+
+Положение о Министерстве транспорта Российской                Федерации»    (Собрание
+
+законодательства Российской Федерации, 2002, № 49, ст. 4885) п р и к а з ы в а ю :
+
+        Утвердить прилагаемые Правила безопасности морской перевозки грузов.
+
+
+
+
+        Первый заместитель Министра                           В. Рукша
+П р ав ила безопасности м орской перевозки грузов
+
+
+                                   Содержание
+I. ОБЩИЕ ПОЛОЖЕНИЯ.................................................................................................6
+II. ТРЕБОВАНИЯ К ГРУЗУ, ТАРЕ, УПАКОВКЕ И МАРКИРОВКЕ.........................10
+III. ПОДГОТОВКА ГРУЗОВЫХ ПОМЕЩЕНИЙ И СУДОВЫХ
+УСТРОЙСТВ К ПРИЕМУ ГРУЗА...................................................................................12
+IV. РАЗМЕЩЕНИЕ, УКЛАДКА И КРЕПЛЕНИЕ ГРУЗОВ НА СУДНЕ.................... 16
+      Классификация грузов по модели смещения......................................................... 16
+      Размещение груза на судне....................................................................................... 18
+       Укладка и крепление груза...................................................................................... 22
+      Материалы и средства для крепления грузов....................................................... 26
+V. ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ СУДНА И СОХРАННОСТИ
+ГРУЗОВ В РЕЙСЕ............................................................................................................ 30
+VI. ОСНОВНЫЕ ТРЕБОВАНИЯ ТЕХНИКИ БЕЗОПАСНОСТИ ПРИ
+КРЕПЛЕНИИ ГРУЗОВ.....................................................................................................34
+ПРИЛОЖЕНИЕ 1. ИНФОРМАЦИЯ О ГРУЗЕ..........................................................38
+       Рекомендации по подготовке информации о грузе.............................................. 40
+       Содержание информации о грузе........................................................................... 40
+ПРИЛОЖЕНИЕ 2. ОПРОСНЫЙ ЛИСТОК................................................................46
+ПРИЛОЖЕНИЕ 3. ДОКУМЕНТ О БЕЗОПАСНОЙ УКЛАДКЕ И
+КРЕПЛЕНИИ ГРУЗА......................................................................................................48
+ПРИЛОЖЕНИЕ 4. ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+МАТЕРИАЛОВ С ПОВЫШЕННЫМ КОЭФФИЦИЕНТОМ ТРЕНИЯ................ 50
+ПРИЛОЖЕНИЕ 5. МЕТОДИКА РАСЧЕТА КРИТЕРИЯ
+НЕСМЕЩАЕМОСТИ СТРУКТУРООБРАЗУЮЩИХ ГРУЗОВ............................54
+       1. Определения...........................................................................................................54
+       2. Критерий несмещаемости................................................................................... 56
+ПРИЛОЖЕНИЕ 6. НОРМЫ ПРОЧНОСТИ СРЕДСТВ КРЕПЛЕНИЯ................. 68
+
+
+
+
+                                                                4
+                                                                               RUl ES FOR Sa H; CARRIAGE OF CARGOES BY Sl;A
+
+
+                                                     Contents
+I GENERAL PROVISIONS................ ............................................................................... 7
+II REQUIREMENTS FOR CARGO, PACKAGING, PACKAGE AND
+MARKING.......................... ............................................................................................... 11
+III PREPARATION OF CARGO SPACES AND SHIP’S GEAR FOR CARGO
+STOWAGE........................................................................................................................... 13
+IV DISTRIBUTION, STOWAGE AND SECURING OF CARGOES
+ON BOARD THE SHIP........................................................................................................ 17
+       Classification of cargoes according to their model of shift.........................................17
+       Cargo Distribution on a ship........................................................................................ 19
+       Stowage and securing of cargo................................................................................... 23
+       Materials and devices for securing of cargoes............................................................ 27
+V ENSURING THE SHIP’S AND CARGOES SAFETY DURING
+THE VOYAGE.....................................................................................................................31
+VI MAIN REQUIREMENTS FOR SAFETY TECHNIQUES TO BE APPLIED
+WHEN SECURING CARGOES.........................................................................................35
+ANNEX 1 FORM FOR CARGO INFORMATION...................................................... 39
+       Guidelines for the preparation of Cargo Information................................................. 41
+       Cargo Information Contents........................................................................................ 41
+ANNEX 2 CHECKLIST..................................................................................................47
+ANNEX 3 CERTIFICATE OF THE SAFE STOWAGE AND SECURING
+OF CARGO........................................................................................................................ 49
+ANNEX 4 TECHNICAL CHARACTERISTICS OF MATERIALS WITH
+AN INCREASED FRICTION COEFFICIENT...............................................................51
+ANNEX 5 THE METHOD OF CALCULATION OF NON-SHIFT
+CRITERION FOR STRUCTUR1Z1NG CARGOES.......................................................55
+THE METHOD OF CALCULATION OF NON-SHIFT CRITERION FOR
+STRUCTURIZING CARGOES..........................................................................................55
+       1 Definitions............................................................................................................... 55
+       2 Non-shift Criterion................................................................................................. 57
+ANNEX 6 THE STANDARDS FOR STRENGTH OF CARGO SECURING
+DEVICES............................................................................................................................ 69
+
+
+
+
+                                                                 5
+11РАВНЯЛ (ППОПЛОЮС'ГИ МОРСКОЙ 1ШР1:ИОЖИ ТРУТОВ
+
+
+
+
+                      ПРАВИЛА БЕЗОПАСНОСТИ
+                     МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+                                                               УТВЕРЖДЕНЫ
+                                                         приказом Минтранса России
+                                                       от 21 апреля 2003 г, №ВР-1/п.
+                                                     Зарегистрированы Минюстом России
+                                                          27 июня 2003 г. за № 4835.
+                                                      Вступили в силу 24 ноября 2003 г.
+
+                                     I. Общие положения
+      1. Правила безопасности морской перевозки грузов (далее - Правила)
+разработаны в соответствии с пунктом 2 статьи 5 и статьей 2 Федерального закона
+от 30 апреля 1999 г. № 81-Ф З «Кодекс торгового мореплавания Российской
+Федерации» (далее - КТМ России)*, а также в целях исполнения обязательств
+Российской Федерации по Международной конвенции по охране человеческой жизни
+на море 1974 года с поправками (далее - Конвенция СОЛАС-74)**.
+      2. Настоящие Правила применяются при перевозке различных штучных
+грузов, металлогрузов всех разновидностей, подвижной техники (самоходной и
+несамоходной, на колесном или гусеничном ходу), железобетонных изделий и
+конструкций, контейнеров, тарно-штучных грузов, грузов в транспортных пакетах,
+крупногабаритных и тяжеловесных грузов, лесных грузов (далее - генеральные
+грузы).
+     Для грузов, рассматриваемых в настоящих Правилах и одновременно
+внесенных в перечни опасных грузов, должны также соблюдаться требования к
+морской перевозке опасных грузов.
+       3. Правила устанавливают общие требования к по грузке-раз грузке судов,
+ обеспечивающие безопасность при перевозке генеральных грузов, в том числе
+ опасных веществ в упакованном виде, крупногабаритных и тяжеловесных грузов,
+ которые в силу присущих им свойств и особенностей могут при перевозке морем
+ создать угрозу для жизни и здоровья людей, привести к повреждению судов и
+.перевозимых грузов.
+
+
+
+       Собрание законодательства Российской Федерации, 1999, № 18, сг. 2207; 2001, № 22, ст. 2125
+       Принята постановлением Совета Министров СССР от 2 ноября 1979 г № 975 «О принятии СССР
+Международном конвенции по охране человеческой жизни на морс 1974 годя»
+
+                                                 6
+                                                      Rules for Safe C arriage of C argoes B y S ea
+
+
+
+                       RULES FOR SAFE CARRIAGE
+                          OF CARGOES BY SEA
+
+                                                              APPROVED
+                                                              By the Order
+                                                 of the Ministry of Transport of Russia,
+                                                       April 21,2003, No. VR-f/p.
+                                                               Registered
+                                                   by the Ministry of Justice of Russia,
+                                                         June 27, 2003, № 4835.
+                                                 Came into force on November 24, 2003.
+                                  1 General provisions
+1 The Rules for safe carriage of cargoes by sea have been elaborated in accordance
+with paragraph 2 of article 5 and article 2 of Federal Law No. 81-FZ of April 30, 1999
+«Merchant Shipping Code of the Russian Federation» (hereinafter referred to as MSC of
+Russia), and also are aimed to execute the duties of the Russian Federation on the
+International Convention for the Safety of Life at Sea 1974 as amended (hereinafter
+referred to as SOLAS-74).
+2 The present Rules shall be applied when transporting different break bulk cargoes,
+metal cargoes of all kinds, vehicles (self-propelled and not self-propelled, a wheel-based
+or caterpillar-based), ferro-concrete products and frameworks, containers, loose bulk
+cargoes, packaged cargoes, bulky and heavyweight cargoes, timber cargoes (hereinafter
+referred to as general cargoes).
+For the cargoes under the present Rules and simultaneously entered into the list of
+dangerous goods, the requirements for the safe sea carriage of dangerous goods also have
+to be observed.
+3 The Rules establish general requirements for loading-unloading of ships, providing
+safety when transporting general cargoes, including packaged dangerous substances,
+heavyweight and bulky cargoes, which due to their inherent properties and peculiarities
+can create during carriage by sea a threat to life and health of people, result in damages of
+ships and carried cargoes.
+
+
+
+
+                                             7
+П р а в и л а б е з о п а с н о с ти м орск Ь и п б р е в о ж и гр узо в
+
+
+      4. Грузы, нуждающиеся в таре и упаковке для обеспечения их полной
+сохранности при перевозках, должны предъявляться для перевозок в исправной
+таре и упаковке. Тара и упаковка, на которые установлены государственные
+стандарты или для которых установлены технические условия, должны
+соответствовать им. Такие требования применяются также и к предъявляемым
+отправителем контейнерам (пункт 1 статьи 139 КТМ России).
+      5. Грузоотправитель должен своевременно передать перевозчику все
+требуемые в соответствии с портовыми, таможенными, санитарными или иными
+административными правилами касающиеся груза документы. Грузоотправитель
+несет ответственность перед перевозчиком за убытки, причиненные вследствие
+несвоевременной передачи, недостоверности или неполноты таких документов
+(статья 141 КТМ России).
+      6. Отправитель обязан надлежащим образом маркировать груз и представлять
+перевозчику необходимые сведения о нем (пункт 2 статьи 139 КТМ России). С этой
+целью грузоотправителем заблаговременно до погрузки предоставляется
+информация о грузе в письменном виде по форме, приведенной в приложении № 1
+к настоящим Правилам.
+     7. С целью обеспечения достоверности и полноты информации о грузах,
+представляющих наибольшую опасность при морской транспортировке (опасных
+веществах в упакованном виде, крупногабаритных, тяжеловесных и металлогрузах,
+лесных грузах), грузоотправитель поручает разработку информации о грузе
+признанной организации.
+      8. Информация о грузе может использоваться в течение срока действия
+устанавливаемого разработчиком в зависимости от характера и динамики
+изменения транспортных характеристик и свойств груза.
+      9. Груз, грузовые места и грузовые транспортные единицы, включая
+контейнеры, должны быть погружены, уложены и закреплены на судне в течение
+всего рейса в соответствии с наставлением по креплению грузов. Для судна под
+Государственным флагом Российской Федерации наставление по креплению грузов
+одобряется государственной службой морского флота Министерства транспорта
+Российской Федерации.
+      10. Нормативные технические акты, а также методические документы по
+безопасности морской перевозки конкретных видов генеральных грузов, с учетом
+которых разрабатываются наставления по креплению грузов для конкретных судов,
+издаются в установленном порядке.
+      11. Погрузочно-разгрузочные работы на судне выполняются в соответствии с
+наставлением по креплению грузов по рабочей технологической документации,
+разрабатываемой и утверждаемой в установленном порядке.
+
+
+
+
+                                                                           8
+                                                      R ules for Safe C arriage of C argoes B y Sea
+
+
+4 Cargoes, which need to be placed into packaging and package, to provide their entire
+integrity when transporting, shall be presented in proper packaging and package for
+transport. The packaging and package for which State Standards and Technical
+Requirements are established, shall comply with them. The same provisions shall be
+applied to containers presented by the shipper (paragraph 1 of article 139 of MTSC'of
+Russia),
+5 The shipper shall timely deliver to the carrier all the required documents concerned
+with the cargo in accordance with port, custom, sanitary or other administrative rules. The
+shipper shall bear responsibility to the carrier for the losses caused by improper delivery,
+unauthentisity or incompleteness of such documents (Article 141 of MSC of Russia).
+6 The shipper shall label the cargo in a proper way and provide the carrier with
+appropriate information on it (paragraph 2 of Article 139 of MSC of Russia; SOLAS-74
+Regulation VI/2.1). For this purpose, the shipper, in advance of loading, shall submit
+information on the cargo in a written form as given in Annex No. I to the present Rules.
+7 The shipper shall entrust the recognized organization (1MO Resolution A.739(I8))
+with elaboration of the information on the cargo to provide trustworthiness and
+completeness of the information on cargoes, which present a great danger when
+transporting by sea (packaged dangeious substances, bulky, heavyweight and metal
+cargoes, timber cargoes).
+8 The cargo information may be used within the duration limit established by the
+elaborator with regard to the character and change of transport properties of the cargo
+9 Cargo, cargo units and cargo transport units, including containers, shall be loaded,
+stowed and secured throughout the voyage in accordance with the Cargo Securing
+Manual. The State Maritime Administration of the Ministry of Transport of the Russian
+Federation approves a Cargo Securing Manual for a ship entitled to fly the flag of the
+Russian Federation.
+10 Normative technical statements and also methodical documents of safe sea carriage
+of particular kinds of general cargo with regard to which Cargo Securing Manuals are
+elaborated for particular ships shall be issued in accordance with the established order.
+11 Loading - unloading operations aboard the ship shall be canned out in accordance
+with the Cargo Securing Manual (SOLAS-74 Regulation VI/5.6) on working
+technological documentation, which is elaborated and approved in accordance with the
+established order.
+
+
+
+
+                                             9
+П р а в и л а б е з о п а с н о с ти м о рск о й пер ев озки гр узов
+
+
+      12. Капитан судна совместно с организацией, выполняющей погрузку, до
+начала грузовых работ может оформить опросный листок о готовности судна к
+погрузке по рекомендуемой форме, приведенной в приложении № 2 к настоящим
+Правилам.
+      13. Отправитель грузов, представляющих наибольшую опасность при
+морской транспортировке, силами признанной организации организует контроль
+выполнения требований информации о грузе с выдачей капитану судна документа о
+безопасной укладке и креплении груза с учетом рекомендуемой формы,
+приведенной в приложении № 3 к настоящим Правилам. В случае перевозки груза
+на палубе и/или выполнения работ по его креплению силами экипажа судна
+получение такого документа, подтверждающего проявление должной заботы для
+обеспечения безопасной и сохранной перевозки груза, возлагается на перевозчика.
+      14. Для получения разрешения на выход судна с грузами, представляющими
+наибольшую опасность при морской транспортировке (опасными веществами в
+упакованном виде, крупногабаритными, тяжеловесными и металлогрузами,
+лесными грузами), капитан судна представляет капитану порта информацию о грузе
+и документ о его безопасной укладке и креплении, выданные признанной
+организацией.
+
+                                      II. Требования к грузу, таре, упаковке
+                                                  п м аркировке
+
+      15. Груз, предъявляемый к перевозке, должен быть подготовлен с учетом
+требований стандартов на груз, а также соответствовать требованиям условий
+морской транспортировки и стандартов в части: исправности тары и упаковки;
+наличия и исправности пломб, замков, контрольных лент; отсутствия течи жидких
+грузов в таре; соответствия тары нормативным документам; наличия на таре ясно
+видимой маркировки, в том числе, предупредительных надписей; отсутствия
+подмочки грузов, боящихся таковой; отсутствия запахов или других признаков,
+свидетельствующих о порче груза.
+           16. При подготовке генерального груза к перевозке необходимо учитывать:
+          а) возможность его смещения под воздействием качки;
+     б) опасность, связанную с возможностью его возгорания, взрыва и
+неблагоприятного воздействия на человека и окружающую среду (токсичность,
+радиационное излучение);
+      в) возможность потери качества или порчи от воздействия влаги, пыли,
+загрязнений, тепла, коррозии, испарений и различных видов бактерий;
+          г) выделение влаги, пыли, тепла и различных запахов;
+     д) необходимость обеспечения определенных температурных, влажностных и
+вентиляционных режимов перевозки.
+
+
+
+                                                                       10
+                                                         R ules for Safe C a r riag e of C argoes B y S ea
+
+12 Before loading commences, the Master, together with the organization, performing
+cargo handling, may complete a ship/shore safety checklist in the recommended form
+given in Annex No. 2 to the present Rules.
+ 13 For the cargoes which present a great danger when transporting by sea, the shipper
+shall arrange, by the forces of the recognized organization, control of execution of the
+requirements of the cargo information, giving the Master a certificate of safe stowage and
+securing of the cargo, taking into consideration the recommended form, given in Annex
+No. 3 to the present Rules. If the cargo is secured by the ship's crew, the carrier shall be
+entrusted with obtaining such a certificate, which confirms his respective care to provide
+the safe carriage of the cargo.
+14 To obtain a permission for leaving the port for a ship with cargoes, which present a
+great danger when transporting by sea, aboard (packaged dangerous substances, bulky,
+heavyweight and metal cargoes, timber cargoes) the Master shall deliver to the Harbour
+Master the Cargo Information and the Certificate of safe stowage and securing, obtained
+from the recognized organization (SOLAS-74 Regulation VI/1/2).
+                         II Requirements for cargo, packaging,
+                                package and markiug
+ 15 A cargo presented for carriage shall be prepared, taking into account, the
+requirements of standards for the goods and also be in compliance with the requirements
+of the conditions of sea transportation and standards in the part: serviceability of
+packaging and package; availability and serviceability of seals, locks, control bands;
+absence of any leakage in packages filled with liquid cargoes; conformity of the
+packaging with the normative documents; availability of clearly perceptible marking on
+the packaging, including precautionary placards; absence of wetting of cargoes which can
+influenced by moisture; absence of odour and other signs indicating deterioration of the
+cargo.
+16 When preparing a general cargo fo^ the transportation, the following factors shall be
+taken into account:
+     a) the risk of its shifting due to rolling and pitching;
+     b) the inflammation, explosion, toxic and pollution risks;
+     c) the risk of loss of quality or deterioration due to the influence of moisture, dust,
+     contamination, heat, corrosion, evaporations and different bacteria;
+     d) diffusing moisture, radiating heat, emitting different odours and dust;
+     e) the necessity of providing appropriate temperature, moisture and ventilation
+     regimes.
+
+
+
+
+                                               11
+11РЛ11ИЛЛ БЕЗОПАСНОСТИ МОРСКОМ НЕРПВОЖИ ГРУЗОВ
+
+
+      17. По     признакам      совместимости         генеральные   грузы   делятся   на три
+категории:
+      а) обладающие агрессивными свойствами;
+      б) подверженные воздействию агрессивных факторов;
+      г) нейтральные.
+      18. Тара грузовых мест массой брутто 1 тонна и более должна иметь
+приспособления (обуха, рымы, гаки, стропы и т.п.) для выполнения погрузочно-
+разгрузочных работ и крепления грузов на судне. Прочность указанных
+приспособлений должна соответствовать массе грузового места и нагрузкам,
+возникающим при морской транспортировке. Подъемные приспособления не
+должны выступать за наружные поверхности тары.
+      19. При обнаружении недостатков, связанных с опасностью утраты, порчи
+пли повреждения груза и/или нанесения ущерба судну, грузоотправитель должен
+привести тару в соответствие с требованиями действующих нормативных
+документов.
+
+                   III. Подготовка грузовых помещений п судовых
+                              устройств к приему груза
+     20. Суда, подаваемые перевозчиком под погрузку, должны быть                           в
+мореходном состоянии, а грузовые помещения подготовлены к приему груза.
+       21. Подготовка судна к приему груза должна включать:
+      а) приведение грузовых помещений в соответствующее для данного груза
+состояние и проверку систем, проходящих через грузовые помещения;
+       б) проверку исправности действия грузовых устройств;
+      в) проверку надежности закрытия отверстий, доступ к которым после
+загрузки судна будет невозможен, и отверстий, которые, в соответствии со своим
+назначением, должны быть закрыты;
+     г) проверку исправности устройств, служащих для наблюдения за уровнем
+воды в льялах, а также осушительных систем;
+       д) проверку исправности противопожарных систем и оборудования;
+     е) проверку герметичности люковых крышек и системы гидравлики привода
+люковых закрытий.
+     22. Грузовые помещения должны быть очищены от остатков ранее
+перевозимых грузов, при этом характер уборки помещений зависит от вида груза,
+подлежащего перевозке.
+
+
+
+
+                                                 12
+                                                       R ules for S a f e C a r r ia g e o f C a r g oes H y S ea
+
+
+17   For the purpose of compatibility general cargoes fall into three categories:
+     a) reactive cargoes;
+     b) sensitive to extremes;
+     c) insensitive.
+18 Packaging of cargo units having gross mass of 1 ton and more shall be luted with
+devices (eye bolts, rings, hooks, slings etc.) for handling operations and securing of
+cargoes on a ship. Strength of the aforementioned devices shall correspond to the gross
+mass of the cargo unit and stresses arising during sea transportation. Lifting fittings
+should not extend over the outer borders of the packaging.
+19 When any deficiencies concerned with the risk of loss, deterioration or damage of the
+cargo and/or with the risk of hurt the ship are revealed, the shipper shall set the packaging
+in compliance with the requirements of the current normative documents.
+                       Ill Preparation of cargo spaces and ship’s gear
+                                     for cargo stowage
+
+20 The ships presented by the carrier for loading shad be in a seaworthy condition, and
+the cargo spaces shall be prepared to receive the cargo.
+21   Preparation of the ship shall include:
+     a) checking fitness of the cargo spaces for the particulai cargo and inspection of the
+     pipelines passing through the cargo spaces;
+     b) examination of cargo handling gears for their serviceability;
+     c) inspection of reliability of closures, which will be inaccessible after loading, and
+     closures, which shall be closed as appropriate;
+     d) examination of the water-level alarms in bilge wells and also bilge system for their
+     operable condition;
+     e) inspection of the fire systems and equipment for their operable condition;
+     f) examination of the hatch covers and the hydraulic system of the hatch covers
+     driving-gear for leakproofness.
+22 All residues of previously earned cargoes shall be cleaned from cargo spaces,
+specifying, that the order of cleaning depends on the kind o f cargo to be carried.
+
+
+
+
+                                              13
+П р а в и л а б е з о п а с н о с ти м о рск о й перевозки гр узо в
+
+
+      Перед перевозкой строительных материалов, металлопродукции, подвижной
+техники, грузов без упаковки и других грузов, не подверженных воздействию пыли,
+запахов и т.д., производится сухая уборка трюмов.
+     Перед перевозкой пищевых и растительных грузов, хлопка, тканей и других
+промышленных товаров в мелкой расфасовке или пакетах грузовые помещения
+должны быть вымыты, просушены и проветрены. При наличии запахов грузовые
+помещения должны быть дезодорированы.
+      После перевозки соленой рыбы, мокросоленых шкур, жидких жиров, соли,
+скота и других подобных грузов трюмы должны быть обязательно вымыты, а после
+перевозки мокросоленых шкур и продезинфицированы. После перевозки пылящих,
+загрязняющих грузов, например, угля насыпью, трюмы должны быть промыты
+водой из шлангов.
+     23. Для предохранения от ударов грузом судовые системы (трубы) в грузовых
+помещениях судна должны быть ограждены металлическими или деревянными
+кожухами.
+      24. Трюмный льяла должны быть вскрыты и вычищены. При наличии запаха в
+льялах они должны быть после мойки просушены и опрысканы известковым
+молоком, марганцовокислым калием, 10% -ным аммиачным раствором или другими
+дезодорирующими средствами.
+          25. Горловины всех цистерн должны быть проверены на герметичность.
+     26. Приемные отростки осушительной системы и мерительные трубки
+доджны быть осмотрены и очищены.
+     27. Судовые стрелы и краны, если предполагается погрузка береговыми
+кранами, должны быть подняты и закреплены таким образом, чтобы не мешать
+работе береговых кранов.
+      28. При использовании судовых грузоподъемных средств они должны быть
+заблаговременно проверены и приведены в готовность в соответствии с
+требованиями правил технической эксплуатации и судовой технической
+документации.
+          29. Перед укладкой палубного груза необходимо выполнить следующее:
+      а) предусмотреть и установить достаточное число прочных рымов и обухов
+для крепления найтовов;
+     б) защитить от возможного повреждения грузом трубопроводы, идущие по
+палубе;
+          в) проверить надежность люковых закрытий;
+     г) очистить шпигаты и штормовые портики от грязи и проверить их
+исправность;
+     д) подобрать необходимые устройства для крепления и разместить их в
+местах погрузки;
+
+                                                                      14
+                                                       Rules for Safe C ar riag e ok C argoes B y Se \
+
+Prior to the carriage of construction materials, metal products, vehicles, unpackaged and
+other cargoes, which can not be influenced by dust, odours etc. dry cleaning of the cargo
+spaces should be carried out.
+The cargo spaces intended for the carriage of foodstuff and vegetable goods, cotton,
+fabrics and other manufactured goods in small-sized parcelling or packages shall be
+washed, dried and ventilated prior to loading. In case of presence of odours, tiie cargo
+spaces shall be deodorized.
+The cargo spaces, which were used for the carriage of salted fish, wet and salted hides,
+liquid fat, salt, cattle and other similar cargoes shall be washed, and if they were used for
+the catriage of wet and salted hides, they shall be disinfected. After caniage of dusty,
+contaminating cargoes, e.g. coal in bulk, the holds shall be hosed down.
+23 To prevent systems (pipes) in cargo spaces of the ship from being impact by cargo,
+the systems should be protected by metal or wooden casings.
+24 Hold bilge wells shall be opened up and cleaned. In case of presence of odours in
+draining bilges they after washing shall be dried up and sprayed with lime milk, potassium
+permanganate, 10% ammoniac solution or other deodorizing substances.
+25   Manholes of all tanks shall be examined for their leakproofness.
+26 Inlet branches of the drainage system and sounding pipes shall be inspected and
+cleaned.
+27 The ship’s derricks and cranes, when loading is to be effected by shore cranes, shall
+be raised and fixed so as not to impede the shore cranes operations.
+28 When using the ship’s cargo handling gears, they shall in advance be inspected and
+made ready in accordance with the requirements of technical maintenance and ship’s
+technical documentation.
+29   Before stowing deck cargo, it is necessary to do the following:
+     a) provide and install a sufficient quantity of strong deck eyes and deck plates for
+     fixing of lashings;
+     b) protect the pipelines passing at the deck from being impact by cargo;
+     c) examine the efficiency of hatch covers closures;
+     d) clear drain holes and storm scuppers from dirt and examine them for their
+     serviceability;
+     e) select appropriate securing devices and lay out them at the loading points;
+
+
+
+
+                                             15
+П р а в и л а б е з о п а с н о с ти м о рс к о й пер ев озки гр узов
+
+
+     е) подготовить необходимые материалы с повышенным коэффициентом
+трения (приложение № 4 к настоящим Правилам) и разместить их в местах
+погрузки;
+      ж) обозначить на палубе места, которые должны быть оставлены свободными
+от груза для обеспечения доступа к пожарным постам, люкам, дверям и т.д.
+     30. Готовность грузовых помещений для перевозки конкретного вида груза
+проверяется администрацией судна, о чем делается запись в судовом журнале.
+
+                                IV. Размещение, укладка и крепление грузов
+                                                 на судне
+
+                                       Классификация грузов по модели смещения
+
+     31. По механической модели смещения все виды смещающихся грузов
+классифицируются следующим образом:
+     а) абсолютно твердое тело (контейнеры, ролл-трейлеры, крупногабаритные и
+другие так называемые грузовые места);
+          б) сплошная связно-сыпучая среда (навалочные и зерно);
+          в) дискретная структура (пакеты, металлопрокат, чугун в чушках, металлолом
+и др.).
+      32. Грузы, а именно: подвижная техника (автомобили, ролл-трейлеры и т.д.),
+железнодорожные вагоны, контейнеры, платформы, поддоны, съемные цистерны,
+близкие к состоянию абсолютно твердого тела, находятся на судне под действием
+сил, не зависящих от свойств самого груза.
+     В зависимости                           от      используемой            системы   крепления   такие   грузы
+подразделяются на:
+     а) стандартизированный груз - груз, для которого судно предназначено и
+который закрепляется с помощью одобренной системы специальных устройств,
+соответствующих типу грузовых мест (контейнеры на контейнеровозах, лихтеры на
+лихтеровозах, вагоны на ж/д паромах и т.п.);
+     б) полустандартизированный груз - груз, для которого судно предназначено и
+который закрепляется с помощью устройств, используемых для крепления
+ограниченного круга типов грузовых мест (автомобили, ролл-трейлеры и т.д,).
+     33. Грузы, состоящие из отдельных более, или менее крупных и однородных
+частиц (зерновые и навалочные), образуют сплошную связно-сыпучую среду с
+постоянными или закономерно и непрерывно изменяющимися физическими и
+механическими свойствами. Условия смещения в такой среде зависят от
+прочностных свойств груза, определяемых по специальным методикам.
+
+
+
+
+                                                                        16
+                                                                R ules for Sa f e C a r r ia g e of C a r g o es U y Sea
+
+
+     f) prepare the necessary materials with an increased friction coefficient (See
+     Annex No. 4 to the present Rules) and lay out at the loading areas;
+     g) mark the places on deck, which must be left free from the cargo to provide access
+     to the fire posts, hatches, doors etc,
+30 Fitness of the cargo spaces for the carriage of this particular kind of cargo shall be
+inspected by the ship's administration and an appropriate entry shall be made about that in
+the ship’s log.
+
+                  IV Distribution, stowage and securing of cargoes
+                                 on board the ship
+
+                   C lassification of cargoes acco rd in g to th e ir m odel o f sh ift
+
+31 According to the mechanical model of shifting, all types of cargoes liable to shift are
+classified as follows*
+    a) an absolutely solid body (containers, roll-trailers, heavyweight bulky cargoes and
+    other cargo units);
+     b) a continuously bound free-flowing medium (bulk cargoes and grain);
+    c) a discrete structure (packages, metal rolled products, pig iron, metal scrap and so
+    on).
+32 Cargoes, namely: vehicles (automobiles, roll-trailers, etc.), railway wagons,
+containers, flats, pallets, portable tanks, close to the state of an absolute solid body are
+exposed on board, the ship to the action of external forces, independent of the very
+pi operties of the cargo
+Depending on the securing system used, such cargoes are subdivided into.
+    a) standardized cargo - a cargo which the ship is intended for and which is secured
+    by an approved system of special devices suitable for the given kind of cargo units
+    (containers on containerships, lighters on lighter carriers, wagons on r/w ferries etc.);
+    b) semi-standardized cargo - a cargo, for which the ship is provided with a securing
+    system capable of accommodation a limited variety of cargo uansport units such as
+    vehicles, trailers etc.
+33 Cargoes consisting of more or less gross and homogeneous particles (grain and bulk)
+form a continuously bound free-flowing medium, with constant or naturally and
+continuously changing physical and mechanical properties. Liability of shifting in such
+medium depends on the stiength characteristics of the cargo, which are determined by
+special methods.
+
+
+
+
+                                                   17
+П р а в и л а б е з о п а с н о с ти м о рск о й перевозки гр узов
+
+
+     34. Нестандартизированный груз - груз, для укладки и крепления которого
+каждый раз требуется индивидуальный подход.
+          Нестандартизированные грузы разделяются на две группы:
+          а) грузовые места;
+          б) структурообразующие грузы.
+      Грузовые места - это грузы, размещение и крепление которых производится в
+индйвидуальном порядке путем соединения каждого грузового места с
+конструкциями корпуса судна. Погрузочное оборудование или какие-либо его узлы,
+которые перевозятся на судне (судовые тягачи, погрузчики и т.п.), но стационарно
+не закреплены на нем, также следует рассматривать в качестве грузовых мест.
+      Все      остальные      нестандартизированные      грузы       являются
+структурообразующими, т.е. при их укладке на судне они образуют дискретные
+(составленные из отдельных элементов) структуры - массивы (штабели), свойства
+которых зависят не только от характеристик отдельных грузовых мест, но и от
+порядка, направления, способа их укладки. Один и тот же груз, уложенный
+различными способами, образует структуры, обладающие различающимися
+свойствами, в том числе различной устойчивостью в отношении смещения в
+различных направлениях под действием внешних сил.
+      В качестве измерителя способности штабеля структурообразующего груза
+противостоять смещению применяется угол статической устойчивости структуры %
+- острый угол между горизонтальной плоскостью и наклоняемым основанием
+структуры в момент начала ее разрушения в любой форме; опрокидывания,
+соскальзывания или потери устойчивости структуры.
+     Методика определения угла статической устойчивости структуры груза
+(штабеля груза) приведена в приложении № I к настоящим Правилам.
+      Методика расчета критерия несмещаемости и средств крепления
+структурообразующих грузов приведена в приложении № 5 к настоящим Правилам.
+
+                                                   Размещение груза на судне
+
+          35. Груз на судне должен быть размещен йсходя из следующих условий:
+     а) рационального     использования    грузовместимости     помещений      и
+грузоподъемности судна;
+     б) совместимости и сохранности груза в процессе перевозки;
+      в) сохранения местной и общей прочности судна;
+      г) обеспечения необходимой посадки и остойчивости в течение всего рейса;
+     д) обеспечения обзора поверхности моря с места управления судном;
+     е) обеспечения несмещаемости груза под воздействием качки;
+     ж) возможности использования береговых перегрузочных средств и
+беспрепятственной выгрузки и погрузки в промежуточных портах захода.
+
+                                                                     18
+                                                             R u les for S a f e C a r r ia g e o f C a r g oes B y S ea
+
+
+34 N on-standardized cargo - a cargo, which requires individual stowage and securing
+arrangements.
+Non-standardized cargoes are subdivided into two groups to ensure their securing:
+     a) cargo units;
+     b) cargo structures (structurizing cargoes).
+Cargo units are cargoes, stowage and securing of which are performed in an individual
+manner by connecting each separate cargo unit to the ship’s hull. Loading equipment or
+any part thereof, which belongs to the ship (ship's tractors, fork-lifts etc.), but is not fixed
+to it, shall also be considered as a cargo unit.
+All the rest non-standardized cargoes are considered as cargo structures (structurizing
+cargoes), which being stowed on a ship, arrange discrete structures - bodies (stacks).
+A cargo slructuie is a discrete structure, comprising of separate packages, metal rolled
+products, pig iron, metal scrap and so on (of gaieral or break-bulk cargo) stacked according
+to the given stowage pattern. The properties of cargo structures depend not only on the
+characteristics of individual cargo elements, but also on the order, direction and method of
+their stowage. One and the same cargo, stowed by using different patterns, generate
+different structures, which possess different properties, including resistance to shift due to
+external forces.
+Static stability angle % of a structure is used as a measuring criterion o f ability of a stack
+of a structurizing cargo to resist shift. It is an acute angle between the horizontal plane
+and the inclining bottom plane of the structure at the initial moment of its collapse in any
+form: tipping, sliding or loss of stability of the structure.
+The method of determination of a static stability angle of a cargo structure (of a stack of a
+cargo) is given in Annex No. 1 to the present Rules.
+The calculation method of shifting criterion and strength of securing devices for
+structurizing cargoes is given in Annex No. 5 to the present Rules.
+
+                                 C arg o D istrib u tio n on a ship
+
+35   Any cargo aboard the ship shall be stowed so as to ensure:
+     a) effective use of the cargo capacity of the spaces and the load-carrying capacity of
+     the ship;
+     b) compatibility and integrity of the cargo in the course of carriage;
+     c) maintenance of the ship’s local and general strength;
+     d) maintenance of the necessary trim and stability throughout the voyage;
+     e) clear view of a sea surface from the conning position;
+     f) non-shiftability of the cargo under the rolling and pitching;
+     g) the use of shore handling equipment and unimpeded discharging and loading at
+     intermediate ports of call.
+
+                                                19
+П р а в и л а б е з о п а с н о с т и м о р с к о й п е р е в о з к и гр у з о в
+
+
+            36. Запрещается совместная перевозка в одном грузовом помещении грузов:
+            а) пачкающих, пылящих и боящихся загрязнений;
+     б) выделяющих влагу, например, в процессе испарений, и боящихся подмочки
+или сырости;
+           в) издающих запахи и воспринимающих их;
+           г) выделяющих ядовитые газы и пищевых продуктов;
+           д) носителей карантинных объектов и подверженных их воздействию;
+     е) требующих  в процессе                                                  перевозки         различных   тепло-   и   влаго­
+вентиляционных режимов.
+      37. Соблюдение местной прочности, задаваемой в судовой документации в
+виде допустимой удельной нагрузки на перекрытие, может определяться:
+           а) максимальной допустимой высотой штабеля груза по формуле
+                                                                                   // =/ / <7,
+           где Н - высота штабеля груза, м,
+                     q-        допустимая нагрузка на перекрытие, тс/м2,
+                     \х - удельный погрузочный объем (УПО) конкретного вида груза, м3/т;
+     б) максимальным допустимым числом ярусов / при штабелировании грузов
+по формуле
+                         . ________ Допустимая нагрузка на перекрытие, </, т с / м 2_______
+                               Распределенная нагрузка от одного грузового места, с / , , m e t м г
+      38. Независимо от осадки судна, дифферента и палубного груза обзор
+поверхности моря с места управления судном не должен быть затенен на
+расстоянии более чем две длины судна или 500 м, смотря по тому, что меньше,
+впереди носовой оконечности до 10° на каждый борт.
+      39. Никакой теневой сектор, создаваемый грузом, грузовым устройством или
+другими препятствиями, находящимися впереди за пределами рулевой рубки,
+затрудняющими обзор поверхности моря с места управления судном, не должен
+превышать 10°. Суммарный теневой сектор не должен превышать 20°. Секторы
+беспрепятственного обзора между теневыми секторами не должны быть менее 5°.
+Однако при обзоре, описанном в предыдущем пункте, каждый отдельный теневой
+сектор не должен превышать 5°.
+      40. Размещение груза на судне определяется грузовым планом, составляемым
+в два этапа: перед погрузкой судна составляется предварительный грузовой план и в
+процессе погрузки - исполнительный грузовой план.
+     41. Предварительный грузовой план составляет организация, выполняющая
+погрузку груза, с учетом требований пунктов 42 и 43 настоящих Правил и
+утверждает капитан судна до начала погрузки.
+
+                                                                                   20
+                                                           R ules for S afe C a r riag e of C argoes B y Sea
+
+
+36 The following cargoes shall not be carried in one and the same cargo space:
+     a) soiling, dusty cargoes and cargoes which may be influenced by contamination;
+     b) cargoes diffusing water for example during evaporation, and cargoes influenced
+     by wetting^
+     c) cargoes emitting odours and the ones that perceive them;
+     d) cargoes evolving toxic gases and foodstuffs;
+     e) cargoes containing quarantine objects and cargoes susceptible to their effect;
+     f) cargoes requiring different heat- and moisture-ventilation conditions in the course
+     of carriage.
+37 Maintenance of the local strength specified in the ship’s documentation as the
+permissible deck load or tank top strength can be determined as follows:
+     a) by specifying the maximum permissible height of a stack of the cargo by the
+     formula:
+                                        H = SF *q
+      where H - height of the cargo stack, m,
+             4 ~deck load or tank top strength, t(f)/m2,
+            SF- stowage factor of the cargo, m3/t,
+     b) by specifying the maximum permissible number of tiers i when stacking of cargo
+     according to the following formula:
+                         ^ ____tank top strength,cj, t(J)/m2____
+                            specific distributed cargo unit load, (jL, l(f)/m 7
+
+38 The view of the sea surface from the conning position shall not be obscured by more
+than two ship lengths, or 500 m, whichever is the less, forward of the bow to 10° on either
+side under all conditions of draught, trim and deck cargo.
+39 No blind sector caused by cargo, cargo gear or other obstructions outside of the
+wheelhouse forward of the beam which obstructs the view of the sea surface as seen from
+the conning position, shall not exceed 10°. The total arc of blind sectors shall not
+exceed 20°. The clear sectors between blind sectors shall be at least 5°. However, in the
+view described in the previous paragraph, each individual blind sector shall not exceed 5°.
+40 Distribution of the cargo on board the ship shall be determined on the basis of the
+stowage (cargo) plan, which is made up in two steps: prior to the ship loading - a
+pre-stow plan (PSP) and in the course of loading - an executive stowage plan (ESP).
+41 Pre-stow plan shall be made up by an organization performing cargo loading taking
+into account the requirements of paragraphs 42 and 43 of the present Rules and the master
+should approve it prior to the loading.
+
+
+
+
+                                               21
+П р а в и л а б е з о п а с н о с ти м о р с к о й пер ев озки гр узо в
+
+
+      При перевозке однородных грузов предварительный грузовой план
+составляется совместно администрацией судна и представителем организации,
+выполняющей погрузку.
+                                                      Уклядка п креплениеipyia
+      42. Груз, принятый на судно, должен быть надлежащим образом уложен и
+закреплен во избежание его смещения в процессе морской перевозки.
+     43. Укладка и крепление грузов производятся в соответствии с требованиями
+судового наставления по креплению грузов, информации о грузе, настоящих
+Правил и с учетом следующих факторов:
+     а) продолжительности рейса;
+          б) географического района плавания;
+          в) ожидаемого состояния моря;
+          г) размеров, типа и характеристик судна;
+          д) статических и динамических сил, ожидаемых во время рейса;
+          е) типа и упаковки грузовых мест;
+          ж) планируемого порядка размещения грузовых мест;
+          з) массы и габаритных размеров грузовых мест;
+     и) примененных расчетных методик и заложенных в них ограничений и
+условий.
+     44. Крепление стандартизированных и полустандартизированных грузов -
+контейнеров, подвижной техники, прицепов, трейлеров, крупногабаритных и
+тяжеловесных грузов на специализированных судах, предназначенных для
+перевозки указанных категорий грузов и имеющих штатные устройства для их
+крепления, производится на основании наставления по креплению грузов и судовой
+эксплуатационной документации, одобренных в установленном порядке.
+      В случае если в судовой документации отсутствуют необходимые данные,
+крепление груза осуществляется в соответствии с требованиями информации о
+грузе, настоящих Правил и нормативных технических актов, а также методических
+документов пЬ безопасности морской перевозки конкретных грузов, одобренных в
+установленном порядке.
+     45. Размещение    и  крепление    нестандартизированных     грузов
+крупногабаритных и тяжеловесных грузов производят по индивидуальным
+проектам, разрабатываемым грузоотправителями, судовладельцами или по их
+поручению компетентными организациями с учетом требований настоящих Правил.
+      46. В   способах     укладки    и   крепления     нестандартизированных
+структурообразующих грузов, приводимых в наставлении по креплению грузов и в
+информации о грузе, необходимо учитывать форму, размеры и прочность грузовых
+мест. Эти показатели необходимо использовать для создания устойчивой структуры
+штабеля, способной выдерживать, не разрушаясь, статические и динамические
+нагрузки, ожидаемые в процессе предстоящей морской перевозки.
+
+                                                                          22
+                                                       R ules for S afe C ar r iag e of C argoes B y Sea
+
+
+When carrying homogeneous cargoes, a pre-stow plan should be made up by the ship’s
+administration together with a representative of the organization, performing loading.
+
+                                Stowage and securing of cargo
+
+42 The cargo taken aboard the ship shall be properly stowed and secured so as to
+prevent its shifting in the course of the sea carriage.
+43 Stowage and securing of the cargoes shall be performed in accordance with the
+requirements of the ship’s Cargo Securing Manual, Cargo Information, the present Rules
+and taking into account the following factors:
+     a) the duration of the voyage;
+     b) the geographic navigation area;
+     c) the expected sea condition;
+     d) the dimensions, type and characteristics of the ship;
+     e) the action of static and dynamic forces expected during the voyage;
+     f) the type and packaging of cargo units;
+     g) the intended stowage pattern;
+     h) the mass and overall dimensions of cargo units;
+     i) the applied calculation methods and restrictions contained therein.
+44 Securing of standardized and semi-standardized cargoes - containers, vehicles, semi­
+trailers, trailers, bulky and heavy weight cargoes on specialized ships intended for the
+carriage of the specified categories of cargoes and equipped with regular facilities for
+their securing - shall be carried out in accordance with the Cargo Securing Manual and the
+ship’s operating documentation approved in the established order.
+When necessary data is not provided in the ship’s documentation, the cargo securing shall
+be performed in accordance with the requirements of the Cargo Information, the present
+Rules and normative technical acts and also methodical documents of safe sea carriage of
+particular cargoes, approved in the established order.
+45 Stowage and securing of non-standardized cargoes - bulky and heavyweight cargoes
+- shall be performed according to individual projects, elaborated by the shippers, ship
+owners or, on their behalf, by competent organisations, in accordance with the
+requirements of the present Rules.
+46 The methods of stowage and securing of non-standardized structurizing cargoes,
+specified in the Cargo Securing Manual and Cargo Information, shall take into
+consideration form, dimensions and strength of the cargo units. It is necessary to use these
+factois for comprising of a stable structure of the stack, capable of withstanding without
+collapse static and dynamic forces expected in the course of the intended sea carriage.
+
+
+
+                                             23
+П р а в и л а б е з о п а с н о с ти м о р с к о й п ер ев озки гр узо в
+
+
+      47. В грузовых помещениях неудобной формы для обеспечения плотности и
+устойчивости штабеля должны устраиваться прочные выгородки, клетки и другие
+конструкции. В качестве материалов для конструкций могут служить деревянные
+доски, брусья, клинья и т.п.
+     48. Несмещаемость устойчивого штабеля обеспечивается закреплением его
+поверхности. Закрепление поверхности штабеля может производиться:
+      а) путем плотной укладки устойчивого груза по всей поверхности штабеля в
+грузовом помещении;
+      б) путем догрузки другого плотно уложенного и надежно закрепляемого
+груза, масса которого должна быть не менее массы поверхностного яруса
+закрепляемого! штабеля; перед догрузкой поверхность штабеля необходимо
+выстилать достаточным количеством досок толщиной не менее 15 мм; общее
+допустимое количество груза в штабеле определяется по формуле
+                                                                    Q = С B-q,
+          где С-            длина штабеля, м;
+                   В - ширина грузового помещения, м;
+                   q - допустимая нагрузка на перекрытие, тс/м2;
+      в) одним из способов, приведенных в нормативных технических актах, а
+также в методических документах по безопасности морской перевозки
+соответствующих видов грузов;
+          г) другими способами, рекомендованными в установленном порядке.
+      49. До начала погрузки груза, отсутствующего в судовом наставлении по
+креплению, капитан должен воспользоваться представленной грузоотправителем
+информацией о грузе. При отсутствии такой информации о грузе капитан вправе
+отказаться от приема груза к перевозке.
+      50. При отсутствии на судне условий для размещения и крепления груза,
+обеспечивающих его несмещаемость в рейсе (достаточное количество материалов и
+средств крепления и др.), капитан вправе отказаться от приема груза к перевозке.
+     51. Применяемая система крепления не должна наносить грузу каких-либо
+повреждений. Найтовы не должны касаться колесных шин или каких-либо других
+легко повреждаемых мест груза. При необходимости касания найтовами по
+условиям крепления острых выступающих частей груза или мест, которые могут
+быть повреждены ими, следует устанавливать деревянные или иные прокладки.
+      52. Грузы сферической   и цилиндрической  формы,   неупакованное
+оборудование, металлоконструкции, а также ящичные грузы, не имеющие
+специальных рымов и обухов, рекомендуется крепить найтовами в обхват
+(поясами).
+
+
+
+                                                                           24
+                                                      Rules for Safe C arriage of C argoes B y Sea
+
+
+47 Shields, cages and other means should be arranged in cargo spaces of irregular
+configuration to ensure compactness and stability of the stack. As materials for such
+means, timber boards, beams, wedges, etc. may be used.
+48 Non-shiftability of a stable stack shall be achieved by securing its surface. Securing
+of the stack’s surface can be effected:
+     a) by a tight stowage of the stable cargo throughout the entire surface of the stack in
+     the cargo space;
+     b) by additional loading of another compactly stowed and reliably secured cargo, the
+     mass of which shall be not less than the mass of the top tier of the secured stack;
+     prior to loading, it is necessary to cover the surface of the stack with sufficient
+     quantity of wood boards of thickness at least 15 mm; the total permissible quantity of
+     the cargo in the stack shall be determined by the following formula:
+                                        Q - f B*q,
+     where C- length of the stack, m;
+           В - breadth of the cargo space, m;
+           q - permissible deck loading or tank top strength, t(f)/m2;
+     c) by one of the methods, specified in the normative technical acts and also in
+     methodical documents of safe sea carriage of respective kinds of cargoes;
+     d) by other methods, recommended in the established order.
+49 Prior to loading a cargo which is not included in the ship’s Cargo Securing Manual,
+the master shall familiarize himself with the Cargo Information presented by the shipper.
+Should there be no such information on the cargo, the master has the right to reject this
+cargo for the carriage.
+50 In case the conditions for stowage and securing of the cargo, which provide its non-
+shiftability during the voyage (sufficient quantity of materials and securing devices etc.),
+are absent aboard the ship, the master has the right to reject the cargo for the carriage.
+51 The applied securing system shall not cause any damage to the cargo. Lashings shall
+not come into contact with wheel tires or any other sensible parts of the cargo. Wooden or
+other type of dunnage shall be used when due to the securing conditions the lashings are
+to come in contact with sharp overhanging edges of the cargo or its parts which may be
+damaged by them.
+52 Cargoes of a spherical and cylindrical shape, unpacked equipment and steel frame
+works, as well as cargoes in the cases, not fitted with special rings and eye plates, should
+be secured by lashings (belts) to be passed around.
+
+
+
+
+                                            25
+П р а в и л а б е з о п а с н о с ти морском перевозки гр узов
+
+
+      53. Подвижную технику следует крепить за буксирные крюки, отверстия,
+петли и скобы, специально предназначенные для этой цели, а также за раму, шасси
+и другие детали, жестко связанные с рамой машины, при условии, что система
+крепления не приведет к повреждению этих деталей.
+     54. При установке грузов со сложной формой опорной поверхности следует
+применять специальный фундаменты или седла.
+      55. Конструкция крепления крупногабаритных и тяжеловесных грузов может
+предусматривать    установку   клетей,   кильблоков   и других     устройств,
+разрабатываемых в составе индивидуального проекта.
+      56. Фактическое размещение груза на судне, учитывающее возможные
+изменения, возникающие в процессе погрузки, отражается в исполнительном
+грузовом плане, который составляет организация, выполняющая погрузку.
+     57. Капитан судна обеспечивает соответствие укладки и крепления груза
+требованиям наставления по креплению грузов и информации о грузе.
+      58. Дополнительное крепление груза по требованию капитана сверх
+указанного в информации о грузе и/или в наставлении по креплению грузов
+выполняется по заявке судна.
+     59. Выход судна в рейс с незакрепленным грузом не разрешается. Время
+окончания работ по креплению груза и раздел (пункт) судового наставления по
+креплению грузов или настоящих Правил, в соответствии с которыми эти работы
+произведены, должны быть зафиксированы в судовом журнале.
+
+                                   Материалы н средства для крепления грузов
+
+         60. Классификация средств крепления
+     ]) Судовые средства для крепления грузов подразделяются на стационарные и
+съемные (основные и вспомогательные).
+      2) К стационарным средствам относятся различного типа рымы, обухи, скобы
+и гнезда, устанавливаемые на палубах, переборках и иных судовых конструкциях.
+         3) Основные съемные средства крепления грузов могут быть:
+         а) лайтовными (канатные, цепные, штанговые и ленточные);
+     б) закладными (центрующие                                   и    стяжные   приспособления,   ручные   и
+полуавтоматические замки);
+      в) обвязочными (синтетическая пленка, стальные и синтетические ленты,
+сетки и т.д.).
+
+
+
+
+                                                                     26
+                                                         R ules for Safe C a r r ia g e of C argoes B y Sea
+
+
+53 When securing vehicles, lashings should be attached to tow hooks, apertures, loops
+and shackles specially intended for this purpose, as well as to the frame, chassis and other
+parts, fixed rigidly to the frame of the vehicle, provided the securing arrangements do not
+damage these parts.
+54 When stowing cargoes of a complicated shape of their bedding area special supports
+or saddles should be used.
+55 The assembly of securing system for bulky and heavyweight cargoes may include the
+cages, keelblocks and other arrangements designed as a part of an individual project.
+56 Actual stowage of the cargo on board the ship shall be specified in the executive
+stowage plan drawn up by the organization performing loading, taking account of possible
+changes arising in the course of loading operations.
+57 The Master of the ship is to ensure the compliance of stowage and securing of the
+cargo with the requirements of the Cargo Securing Manual and the Cargo Information.
+58 Additional securing of the cargo by the Master’s request above the specified in the
+Cargo Securing Manual and/or in the Cargo Information shall be carried into effect
+according to the application of the ship.
+59 The ship shall not leave the port with unsecured cargo The time of completion of the
+securing works and the relevant paragraph of the Cargo Securing Manual or the present
+Rules, in accordance with which these operations were accomplished, shall be recorded in
+the ship's logbook.
+
+                        M aterials ami devices for securing o f cargoes
+
+60   Classification of securing devices
+     1)      Ship’s cargo securing devices are divided into fixed and portable (main and
+     auxiliary) ones.
+     2)      Among the fixed securing devices are various eye rings, eye plates, shackles
+     and sockets which are to be installed on decks, bulkheads and other frameworks of
+     the ship.
+     3)     The main portable securing devices may be:
+             a) lashings (wire rope, chain, rod and band);
+             b) inserted devices (centering and tightening devices, manual and semi­
+            automatic locks);
+             c) binding devices (synthetic film, steel and synthetic bands, nets and so
+            on).
+
+
+
+
+                                              27
+П р а в и л а б е з о п а с н о с ! и м о р с к о й п ер ев о з к и гр уз о в
+
+
+      4) К вспомогательным съемным средствам крепления относятся скобы,
+глаголь-гаки, зажимы, струбцины, различного типа натяжные устройства, крюки,
+стойки, башмаки, подставки, колодки, пневмооболочки; брусья, клинья, уголки,
+прокладки и противоскользящие материалы (приложение № 4 к настоящим
+Правилам).
+      5) Средства крепления грузов на специализированных судах (лесовозы,
+железнодорожные и автомобильные паромы, контейнеровозы, автомобилевозы,
+баржевозы, суда типа ро-ро и суда для перевозки тяжеловесных грузов), входящие в
+состав проекта судна, определяются спецификой его работы, перевозимого груза и
+должны быть одобренного типа.
+           61. Требования к средствам крепления
+     1) Конструктивные элементы систем креплений (найтовы, талрепы и другие
+стяжные   устройства,   быстрозапорные   откидные устройства, ручные и
+полуавтоматические закладные замки, угловые и закладные центрующие элементы
+и приспособления, палубные башмаки, гнезда, обухи и рымы, закладные крюки,
+стяжки и др.) должны быть в исправном состоянии, без видимых следов
+повреждений.
+      2) Стационарные и съемные средства крепления должны соответствовать
+требованиям нормативно-технической документации, одобренной в установленном
+порядке, и иметь действующие документы, содержащие сведения о допустимой
+(максимальной) рабочей нагрузке (SWL) и/или разрушающей (предельной) нагрузке
+(BL).
+     3) Конструктивные элементы систем крепления должны обеспечивать
+определенный запас прочности (таблица П .6.1 приложения № 6 к настоящим
+Правилам).
+      4) На конструктивные элементы систем крепления предприятие -
+изготовитель    наносит маркировку, содержащую  значения допустимой
+(максимальной) рабочей нагрузки (SWL) и/или разрушающей (предельной)
+наг рузки (BL).
+     5) Порядок обращения, эксплуатации, технического обслуживания и ремонта
+судовых многооборотных средств крепления должен соответствовать требованиям
+нормативно-технической документации, одобренной в установленном порядке, и
+может быть конкретизирован в наставлении по креплению грузов.
+     6) Тросовые найтовы в местах соединения с талрепами, скобами и другими
+элементами должны иметь огоны, предпочтительно с заделанными коушами.
+Заделка коушей может производиться с помощью тросовых зажимов. Количество
+зажимов определяется в зависимости от диаметра троса, но в любом случае их
+должно быть не менее трех.
+
+
+
+
+                                                                                28
+                                                       R ules fok Safe C a r riag e o f C argoes D y Sea
+
+
+     4)      Among the auxiliary portable securing devices are shackles, pelican hooks,
+     clamps, clips, various tightening devices, hooks, uprights, wheel chocks, trailer
+     horses, shoes, airbags, beams, chocks, angle bars, soft boards and antiskid materials
+     (see Annex No. 4 to the present Rules).
+     5)      Securing devices on special-purpose ships (timber carriers, railway and
+     automobile ferries, containerships, car carriers, barge carriers, ro-ro ships and ships
+     for carriage of heavy-lifts), being a part of the ship, are specified in accordance with
+     the character of their operation, the cargo carried and shall be of the approved type.
+61   Requirements for securing devices
+     1)      Elements of securing systems (lashings, turnbuckles and other tightening
+     devices, quick closing convertible devices, manual twistlocks and semi-automatic
+     conlocks, angled and insered centring elements and arrangements, deck fittings,
+     sockets, eye plates and eye rings, penguin hooks, bridge fittings, buttresses etc.) shall
+     be in good working condition without visible signs of damage.
+     2)     Fixed and portable securing devices shall meet the requirements of
+     normative-technical documents, approved in the established order, and have current
+     documents, containing data on the permissible Safe Working Load (SWL) and/or
+     breaking (extreme) load (BL).
+     3)     Elements of securing systems shall provide a definite Safety Factor (See
+     Table A.6.1 of Annex No. 6 to the present Rules).
+     4)     Elements of securing systems shall be marked by their manufactuier. The
+     marking, shall contain values of the Safe Working Load (SWL) and/or breaking
+     (extreme) load (BL).
+     5)      Handling and maintenance of the ship's multiple-use securing devices shall
+     comply with the requirements of normative-technical documentation, approved in the
+     established order and may be defined concretely in the Cargo Securing Manual.
+     6)      Wire rope lashings, at the positions of connection with turnbuckles, shackles
+     and other elements, shall have eye splices with fixed thimbles preferably. Fixing of
+     thimbles may be carried into effect by wire rope clamps. The quantity of claps is
+     determined according to the diameter of the rope, but in any case it should not be less
+     than three.
+
+
+
+
+                                             29
+П р а в и л а бе 'ю п л с н о с т и м о рск о й п ер ев озки гр уз о в
+
+
+      7) Перед выходом в рейс натяжные элементы должны быть набиты не более
+чем на половину рабочего хода для обеспечения возможности подтяжки в течение
+рейса. При этом усилие натяжения не должно быть чрезмерным.
+          62. Расход материалов для крепления грузов
+      1) Средний расход материалов на 1 т груза может быть определен по данным
+таблицы П.6.2 приложения № 6 к настоящим Правилам в зависимости от вида
+генерального груза. Применение материалов с повышенным коэффициентом
+трения, в том числе мягких пород древесины (ель, сосна), позволяет существенно
+сократить расходы на крепление.
+      2) Определение    вида   и    количества   материалов     для крепления
+крупногабаритных и тяжеловесных грузов, размещение и установка которых на
+судах производятся по индивидуальным проектам, осуществляется разработчиками
+проекта в каждом случае отдельно и утверждается вместе с проектом.
+     3) Материалы /для крепления грузов должны удовлетворять требованиям
+нормативно-технической документации, одобренной в установленном порядке, а
+также настоящим Правилам и карантинным требованиям.
+      4) Сепарационные материалы, применяемые для разделения коносаментных
+партий грузов, должны быть целыми, не зараженными биологическими объектами и
+химическими веществами, сухими, чистыми и не иметь посторонних запахов, если
+это может повредить грузу.
+      5) Применяемые для сепарации краски должны быть безвредными для грузов
+и обслуживающего персонала.
+     6) Метки, наносимые специальными карандашами и мелками, должны быть
+четкими и не стираемыми в процессе грузовых операций и транспортировки.
+
+                                          V. Обеспечение безопасности судна
+                                             и сохранности грузов в рейсе
+
+      63. В рейсе необходимо вести регулярный контроль остойчивости по периоду
+бортовой качки судна. Резкое увеличение периода качки свидетельствует о
+значительном снижении остойчивости судна.
+     64. В рейсе необходимо вести регулярный прием сводок и прогнозов погоды
+и волнения моря с тем, чтобы не допустить попадание судна в зону с волнением,
+превышающим принятое к учету при расчете крепления грузов.
+      65. При невозможности уклониться от такого волнения необходимо принять
+все меры к герметизации корпуса судна и, при необходимости, произвести проверку
+крепления грузов с соблюдением мер безопасности. Спуск в грузовое помещение
+должен быть разрешен только после проверки отсутствия в грузовом помещении
+токсичных и вредных факторов, представляющих опасность для жизни и здоровья.
+
+
+
+
+                                                                         30
+                                                      R ules for Safe C arriage of C argoes B y Sea
+
+
+     7)     Before leaving the port, tightening elements should be tightened for not more
+     than a half of their working stroke to ensure the ability of tightening during the
+     voyage. At the same time, the force of tightening shall not be excessive.
+62   Material Consumption for securing of cargoes
+     1)      The average material consumption per I t of cargo can be determined
+     according to the data contained in Table A.6.2, Annex No. 6 to the present Rules
+     depending on the kind of general cargo. Implementation of materials with an
+     increased friction coefficient, including soft kinds of wood (fir and pine),
+     considerably allows to reduce the expenses for securing.
+     2)      Determination of the type and quantity of materials used to secure
+     heavyweight and bulky cargoes, whose distribution and stowage on ships are
+     executed according to individual projects, are implemented by the designers of the |
+     project individually in each case and approved inside the project.
+     3)      Materials used for cargo securing shall be in compliance with the
+     requirements of normative-technical documentation, approved in the established
+     order as well as with the present Rules and quarantine requirements.
+     4)      Dunnage used for separation of cargo consignments should be intact,
+     uninfected by biological bodies and chemical substances, dry, clean and should not
+     give off alien odours if they can harm the cargo.
+     5)     Paints used for separation shall be harmless for the cargo and the ship's
+     personnel.
+     6)      Marks made with special pencils and crayons should be clear and undeletable
+     in the course of cargo operations and transportation.
+                  V Ensuring the safety of the ship and integrity of
+                           cargoes during the voyage
+63 During the voyage, it Is necessary to maintain regular control of the ship's stability
+by measuring the roll period. A sharp increase of the roll period indicates that significant
+reduction of the ship’s stability has occurred.
+64 During the voyage, it is necessary to maintain regular receiving of weather and sea
+condition reports and forecasts in order to avoid the ship getting into a seaway zone,
+where the level of heaving exceeds the assumed value when calculating the strength of
+securing of the cargoes.
+65 When it is not feasible to avoid such heaving, all measures should be taken to ensure
+tightness of the ship’s hull and, when necessary, an inspection of securing of the cargoes
+should be executed with the relevant safety measures taken. Entering an enclosed cargo
+space shall be allowed only after a test for the absence of toxic and deleterious factors,
+posing hazard to human life and health, has been conducted.
+
+
+
+                                            31
+П р а в и л а б е з о п а с н о с ти м о р с к о й п ер ев озки гр уз о в
+
+
+           66. При проверке состояния грузов необходимо обращать внимание на:
+           а) смещение грузов;
+           б) ослабление систем крепления;
+           в) расшатывание конструкций тары и их деформацию;
+     г) возможность динамических контактов грузовых мест друг с другом и с
+конструкциями корпуса;
+     д) перераспределение нагрузок, возникающих в результате выключения из
+работы деталей крепления, прокладок и оказывающих неблагоприятное действие на
+прочность конструкций судна, груза и его крепление;
+           е) повреждение груза;
+          ж) отпотевание груза и конструкций судна;
+     з) другие условия и обстоятельства, могущие оказать неблагоприятное
+действие на состояние груза и его качество.
+     67. При обнаружении недостатков следует принять меры по их устранению и
+при необходимости произвести дополнительное крепление грузов (обтяжку
+найтовов, подбивку и фиксацию клиньев гвоздями, установку дополнительных
+прокладок и т.д.). Результаты проверки состояния грузов должны быть
+зафиксированы в судовом журнале.
+     68. Меры по предотвращению потери плавучести, остойчивости судна и
+смещения грузов:
+     а) в штормовых условиях должны быть закрыты все входы и другие
+отверстия, через которые вода может проникнуть внутрь корпуса или надстройки,
+рубки и т.д.;
+     б) бортовые иллюминаторы нужно содержать в исправном состоянии, в
+щтормовых условиях они должны быть надежно закрыты;
+           в) шпигаты должны быть очищены и находиться в рабочем состоянии;
+           г) число частично заполненных цистерн на судне должно быть минимальным;
+     д) не начинать балластировку, особенно в штормовых условиях плавания, не
+произведя расчетов остойчивости и влияния на нее принимаемого балласта;
+     е) танки, кроме расходных, в которых имеются свободные поверхности, по
+возможности, следует запрессовать до начала балластировки;
+     ж) принимать балласт одновременно только в один танк или в одну пару
+танков, если прием в один вызовет заметный крен;
+     з) начинать балластировку нужно с заполнения танка, свободная поверхность
+в котором даст наименьшую поправку к метацентрической высоте (как правило,
+концевые танки);
+
+
+                                                                            32
+                                                       KULBS FOR о л н ; bA K K IA U b ui* ъ л к ч и » D т о с л
+
+
+66   When inspecting the state of the cargoes, attention shall be paid to:
+     a) shifting of the cargoes;
+     b) slackening of securing arrangements;
+     c) loosening of configurations of the packaging and their deformation;
+     d) possibility of dynamic contacts of cargo units with each other and with structures
+     of the ship’s hull;
+     e) redistribution of loads arising as a result of disengagement from functioning of
+     securing components and dunnage, and which exert negative affect on the strength of
+     the ship’s structures, cargo and its securing;
+     f) damage of the cargo;
+     g) condensation on the cargo and the ship’s structures;
+     h) other conditions and circumstances, which could adversely affect the cargo
+     condition and quality.
+67 When any of aforementioned conditions and circumstances are revealed, measures
+on their elimination should be taken and when necessary additional securing of the cargo
+(retightening, wedging, installation of additional dunnage and so on) should be effected.
+The results of the inspection shall be recorded in the ship’s logbook.
+68   Measures to be taken against loss of buoyancy, ship's stability and shifting of
+cargoes:
+     a) at storm conditions, all entrances and other closures, through which water can leak
+     inside the ship’s hull or superstructure, deckhouse etc., shall be closed;
+     b) it is necessary to keep sidescuttie in good working condition and they shall be
+     reliably secured at storm conditions;
+     c) scupper holes should be cleared and be in working condition;
+     d) the number of partly filled tanks on board should be minimum;
+     e) the ballasting shall not be started, especially in heavy seas, without having
+     calculated the ship’s stability and influence on it of the ballasting;
+     f) tanks which contain free surfaces, except the service tanks, should be, where
+     possible, pressed before starting the ballasting operations;
+     g) only one tank or one pair of tanks, should be ballasted simultaneously, if
+     ballasting of a single tank can cause a visible heel;
+     h) the ballasting operations shall be commenced with the tank, whose free surface
+     will cause the least correction to the metacentric height (as a rule, they are end
+     tanks);
+
+
+
+
+                                             33
+П р а в и л а б е з о п а с н о с ти м о р с к о й пер ев озки гр уз о в
+
+
+     и) прямоугольные танки в средней части корпуса заполняются, как правило,
+последними;
+          к) прием балласта нужно вести с максимальной быстротой;
+     л) принимая балласт в какой-либо танк, не прекращать этой операции до его
+Полной запрессовки; заполнение следующего танка следует производить после
+полной запрессовки предыдущего;
+          м) другие необходимые меры.
+     69. При возникновении крена следует немедленно уменьшить динамические
+нагрузки на судно, для чего:
+          а) уменьшить скорость хода;
+     б) привести судно носом против волны; однако при недостаточной
+остойчивости судна этой мерой следует пользоваться крайне осторожно, помня, что
+поворот даже на тихой воде может вызвать дополнительный крен судна;
+     в) в случае появления постоянного крена необходимо путем контрольной
+откачки из льял и днищевых танков убедиться, что причиной крена является
+смещение груза;
+      г) по возможности с принятием соответствующих мер предосторожности
+(пункт 65 настоящих Правил) приемом балласта добиться увеличения остойчивости
+и следовать на выход из штормовой зоны кратчайшим безопасным курсом;
+     д) полностью ликвидировать крен приемом балласта допускается только
+после выхода судна из штормовой зоны.
+
+                              VI. Основные требования техники безопасности
+                                         при креплении грузов
+      70. При креплении грузов следует руководствоваться правилами техники
+безопасности на судах морского флота и правилами охраны труда, утвержденными
+в установленном порядке.
+     71. Крышки лаза, люка должны быть закреплены стопорами. Перед спуском в
+трюм необходимо убедиться в надежности фиксации стопоров.
+     72. Спускаться в трюм или подниматься из него следует по одному и с
+разрешения сигнальщика.
+           73. Запрещается спускаться (подниматься) в грузовое помещение:
+           а) при отсутствии освещения;
+           б) с какими-либо предметами в руках;
+           в) при подъеме или спуске грузов или грузозахватных приспособлений.
+
+
+
+
+                                                                           34
+                                                               R ules for Safe C ar riag e of C argoes B y S ea
+
+
+     i) rectangular amidships tanks are as a rule the last to be filled;
+     j) ballasting should be effected as fast as possible;
+     k) ballasting of any tank shall not be stopped until the tank is fulfilled; the ballasting
+     of the next tank shall be started only after the previous tank is fulfilled;
+     l) other appropriate measures.
+69 When heel appears, the dynamic loads upon the ship should be reduced immediately.
+For this purpose it is necessary:
+     a) to reduce speed;
+     b) to put the ship's bow up sea; however in case of poor stability this measure should
+     be taken with great care bearing in mind that a turn, even in still water, can cause an
+     additional heel of the ship;
+     c) in case a constant heel has appeared it is necessary to make sure, by control
+     pumping out of draining bilges and bottom tanks, that the heel is caused by cargo
+     shifting;
+     d) as far as possible, taking the relevant safety precautions (see paragraph 65 of the
+     present Rules), to achieve increase of the ship's stability by means of ballasting and
+     to proceed out of the storm area by the shortest safe course;
+     e) complete eliminating of the heel by ballasting is allowed only after the ship has
+     escaped the storm area.
+
+                   VI   M a in re q u ire m e n ts fo r sa fety te c h n iq u e s to be
+                               a p p lie d w h e n se c u rin g c a rg o e s
+
+70 When securing cargoes, one should be guided by Safety Rules for the maritime fleet
+ships and Regulations for Personnel Protection approved in the established order.
+71 Manholes and hatch covers shall be fixed by locking devices. Prior to entering the
+hold, it is necessary to make sure that the locking devices are fixed reliably.
+72 Entering or leaving the hold shall be performed in one by one manner and with the
+permission of the signalman.
+73   It is forbidden to enter or leave the hold:
+     a) when there is poor lighting;
+     b) having any objects in hands;
+     c) when cargoes or handling devices are hoisted or lowered.
+
+
+
+
+                                                  35
+П р а в и ла безопасности морской перевозки грузов
+
+
+      74. В процессе работ необходимо контролировать устойчивость уложенного
+груза. Оставлять груз в неустойчивом положении не допускается.
+      75. Подъем работающих на высоту палубного груза должен производиться с
+помощью приставной лестницы, установленной к грузу под углом 60-75° к
+горизонту и оборудованной захватами и противоскользящими башмаками.
+     76. При креплении или снятии крепления с грузов в ночное время, кроме
+штатного освещения, должно быть обеспечено дополнительное освещение с
+помощью люстр и прожекторов.
+     77. Персонал, производящий крепление или снятие крепления с грузов,
+должен быть в рукавицах, касках, одежде, застегнутой на все пуговицы, и
+зашнурованной обуви, исключающей скольжение.
+     78. К выполнению работ по креплению и снятию крепления с
+крупнотоннажных контейнеров допускаются лица, прошедшие обучение
+безопасным приемам ведения этих работ по специальной программе.
+      79. При выполнении работ по креплению грузов на высоте, например штабеля
+контейнеров, работающие должны быть снабжены страховочными поясами,
+закрепляемыми за натянутые вдоль судна канаты, обеспечивающими передвижение
+работающих и предотвращающими их падение. Работы по креплению контейнеров
+второго и последующих ярусов следует выполнять со специальной подвесной
+люльки с леерным ограждением.
+
+
+
+
+                                                     36
+                                                      K U L t i l*U K .ЭА1*Ь L > A K K IA U C u r L -A IU J U C d U I o c a
+
+
+
+74 in the course of handling it is necessary to control stability of the stowed cargo. It is
+forbidden to leave the cargo in an unstable condition.
+75 Lifting of personnel up to the height of deck cargo should be carried out with the
+help of a stepladder erected against the cargo at an angle of 60°-75° towards the horizon
+and equipped with holders and antiskid shoes.
+76 When lashing or unlashing cargoes during night time simultaneously with regular
+lighting additional lighting by lustre and floodlight should be provided.
+77 Personnel carrying out lashing or unlashing the cargoes should wear gloves, helmets,
+buttoned up clothes and laced up antiskid footwear.
+78 Lashing and un lashing of containers of large capacity shall be carried out only by
+persons, who have been trained in safe methods of conducting of these works according to
+a special programme.
+79 When carrying out works on securing of cargoes at a height, e.g. of a stack of
+containers, personnel shall be provided with safety belts fixed upon the ropes, going along
+the ship, providing movement of the personnel and preventing them from falling down.
+Works on securing of containers of the second and next tiers shall be performed from a
+special suspended cradle equipped with guardrails.
+
+
+
+
+                                            37
+I РАВИЛЛБЕЗОПАСНОСТИ МОРСКОЙ ПЕРЕВОЗКИ ГРУЮВ
+
+                                                                                ПРИЛОЖЕНИЕ № 1
+                                                                           к Правилам безопасности
+                                                                           морской перевозки грузов
+                                                                                          (п п .6 ,3 4 )
+                                                                                        (ОБРАЗЕЦ)
+                                  ИНФОРМАЦИЯ О ГРУЗЕ
+                                       (Рекомендуемая форма)
+
+    Грузоотправител ь                                   Регистрационный номер
+                                                        Наименование груза
+
+    Грузополучатель                                     Перевозчик
+
+
+    Наименооание/средство транспорта Порт/причал        Район плавания судна,
+                                     отправления        расчетная высота волны 1iv.<____м
+
+    Порт/причал назначения                              Требования к укладке и креплению груза
+
+
+    Общее описание груза (форма, габаритные размеры,    Общая масса груза (кг; т)
+    масса, упаковка)                                    □ Генеральный груз
+                                                        □ Грузовые места
+                                                        □ Навалочный груз
+    Транспортные характеристики груза*:
+    Удельный погрузочный объем, mVt
+    Допустимая высота штабелирования, м и/или ярусов
+    Угол статической устойчивости, град
+    Коэффициенты трения пар- груз-груз, груз-сталь, груз-дерево илр
+    Коэффициент проницаемости (при затоплении грузового помещения)
+    Химические свойства** и другие потенциальные опасности.
+    •Поскольку применимо и известно.
+    **Напримср, Класс ИМО, номер ООН, номер лпприйной карточки
+    Транспортные и особые свойства груза               Допол! [ителы гые документы*
+                                                       □ Документ о прочности несущих средств
+                                                          пакетирования
+                                                       □ Документов укладке и креплении груза в
+                                                          средствах укрупнения
+                                                       □ Документ о прочности средств крепления
+                                                          грузов
+                                                       □ Документ о безопасной укладке и креплении
+    Нормы расхода материалов и средств крепления груза    груза на судне
+                                                       □ Другие документы
+                                                       * Если необходимы.
+            ДЕКЛАРАЦИЯ                                 Нпимснованис/стятус подписавшей организации
+    Я настоящим заявляю, что груз (товар) полностью и
+    точно описан и что приведенные результаты
+    измерений и инструкции соответствуют моим знаниям Подпись по поручению грузоотправителя
+    и убеждениям и могут быть признаны
+    соответствующими грузу, подлежащему погрузке, и
+                                                       Место и дата
+    условиям предстоящей перевозки
+
+
+
+
+                                                   38
+                                                                               R u l e s f o r S a f e C a r r ja g e o f C a r g o e s B y S ea
+
+
+                                                                                                             Annex N o. 1
+                                                                                           to the Rules for Safe Carriage
+                                                                                                       o f Cargoes by Sea
+                                                                                                                (p .6 ,3 4 )
+                                                                                                              (SAMPLE)
+                                                  Cargo Information
+                (The recommended form meets the requirements o f SOLAS 1974, chapter VI,
+                                regulation 2 and CSS Code as amended)
+Shipper                                                           Reference num ber
+                                                                  Nam e o f cargo
+Consignee                                                         C anter
+
+
+Nam e/m eans o ftian sp o rt     Port/place o f departure   j     Navigation range,
+                                                                  and sea waves height lu-.£___ m
+
+Port o f destination                                              Requirem ents on cargo stowage and securing
+
+
+General description o f the cargo (form, o v a all dimensions, Gross mass (kg/loim es)
+muss, packaging)                                               □ Geneial caigo
+                                                               □ Cargo unit(s)
+                                                               □ Bulk cargo
+Т ы пир oil characteristics ot the cargo*
+Stowage factor, inVt
+Permissible slacking height, ш and/or tieis
+Static stability angle o f a stack, deg.
+Coefficients o f friction tor pairs cargo-cargo, cargo-siccl, cargo-tim ber etc.
+Cargo penneabiiity factoi (when flooding a cargo space)
+Chemical properties** and other potential hazaids
+
+*    i f applicable
+
+** e.g. 1MO class. UN No and EmS No.
+Relevant special piopeities o f the caigo                         Additional docunient(s)*
+                                                                  □ Certificate on the safety o f hoisting packaging m eans
+                                                                  P Cargo Stow age and Securing D eclaration
+                                                                  □ Certificates on securing devices
+M aterials and seem ing devices consum ption                      □ Certificate o f the safe stowage and securing o f cargo on
+                                                                    board the ship
+                                                                  □ O ther (specify)
+                                                                  * If required
+                                                                  N am e/stntus, com рапу/organisation o f signatory
+DECLARATION
+I hereby declnie, that the cargo (consignm ent) is fully and Signature on behalf o f the shipper
+accuiaiely desciibed and that the given tests tesulis and
+insim ctions conespond to the best o f my knowledge and
+belief and can be consideied appropnate foi the caigo to be Place and date
+loaded and conditions o f the forthcoming voyage
+
+
+                                 As an aid to paper documentation, Electronic Data Processing (EDP)
+                                    or Electronic Data Interchange (EDI) techniques may be used
+
+
+
+
+                                                                39
+П р а в и л а б е з о п а с н о с ти м о р с к о й пер ев озки гр узо в
+
+
+
+                                    Рекомендации но подготовке информации о грузе
+
+       В информации о грузе содержатся достоверные и полные сведения о
+транспортных характеристиках, всех особых и опасных свойствах груза, о мерах
+предосторожности, соблюдение которых необходимо для безопасной перевозки
+груза, его размещения и крепления на судне.
+       Информация о грузе используется для решения вопросов о подборе судов,
+размещении, укладке и креплении груза на судне, подборе необходимых средств
+крепления и оптимальном количестве необходимых материалов для крепления
+груза, о спецодежде для персонала и т.п.
+
+                                                  Содержание информации о грузе
+
+          Информация о грузе состоит из следующих частей:
+      1. Информация    об   участниках    морской     транспортировки    груза:
+грузоотправителе, грузополучателе и перевозчике с указанием их точных
+наименований и реквизитов; наименовании и/или виде средства транспорта;
+названиях пунктов (портов) отправления и назначения. Сведения о перевозчике,
+грузополучателе, пунктах отправления и назначения, районе плавания судна и
+расчетной высоте волны приводятся, насколько они известны на момент разработки
+информации о грузе.
+          2. Описание груза с указанием:
+     а) полного    наименования с необходимой конкретизацией                         номера
+нормативного документа на выпускаемую продукцию (ГОСТ, ТУ                           и т.п.),
+организации - изготовителя;
+          б) формы, габаритных размеров и массы грузового места;
+     в) вида и описания упаковки, в том числе наличия и прочности устройств, за
+которые производится перегрузка и крепление груза;
+     г) транспортных характеристик груза (удельного погрузочного объема,
+допустимой     высоты    штабелирования,    угла    статической     устойчивости,
+коэффициентов трения пар: груз-груз, груз-сталь, груз-дерево и др., коэффициента
+проницаемости груза (при затоплении грузового помещения);
+          д) химических свойств и других потенциальных опасностей;
+           е) транспортных и особых свойств.
+      3. Требования и мероприятия по обеспечению безопасности перевозки, в том
+числе требования к укладке и креплению груза, указания о сопровождающих груз
+декларациях, свидетельствах и других документах.
+      Сведения о транспортных характеристиках для их включения в информацию
+о грузе определяются разработчиком информации по следующим методикам:
+
+
+                                                                          40
+                                                             R ules for Safe C a r r ia g e of C argoes B y Sea
+
+
+
+                      G uidelines for the p rep aratio n of C argo Inform ation
+
+The Information should include authentic and exhaustive information on cargo transport
+characteristics, all specific and dangerous properties of the cargo, safety precautions to be-
+taken to ensure safety of carriage by sea, its accommodation and securing on board a ship.
+The Information serves as a basis for selection of ship’s type, stowage and securing of the
+cargo aboard the ship, selection of necessary securing gear and optimal amount of
+materials required for cargo stowage and securing, special working clothes for personnel
+etc.
+
+                                   Cargo Information Contents
+
+Cargo Information consists of the following parts:
+ 1 Information on the participants of sea transportation of the cargo: the shipper,
+consignee and carrier having specified their exact naming and essential elements; name
+and/or type of means of transport, departure and destination points (ports). Information on
+the shipper, consignee and carrier, departure and destination points should be given as far
+as known when drawing up the Cargo Information.
+2    Description of the cargo specifying the following:
+     a)     full naming with required concrete definition, normative document number
+     (Standards, Specifications etc.) on released commodity, name of manufacturer;
+     b)      shape, dimensions and mass of a cargo unit;
+     c)       type and description of the package including availability and strength of
+     lifting and securing points;
+     d)      transport characteristics of the cargo (stowage factor, permissible stacking
+     height, static stability angle, friction coefficients for pairs: cargo-cargo, cargo-steel,
+     cargo-timber etc., cargo permeability factor (when flooding a cargo space);
+     e)      chemical properties and other potential hazards;
+     f)      transport and specific properties.
+3    Requirements and measures to be taken to ensure safe carriage, including
+requirements on stowage and securing, list of relevant certificates.
+Transport characteristics data to be included in the Cargo Information is determined by
+the elaborator using the following methods:
+
+
+
+
+                                                 41
+П р а в и л а б е з о п а с н о с т и м о р с к о й п е р е в о з к и гр у з о в
+
+
+      - удельный погрузочный объем ц, м3/т, - объем, занимаемый единицей массы
+груза при принятом способе укладки, который определяется по фактическим
+замерам на судах, в вагонах или мерных емкостях с точностью не ниже ±5%;
+      -допустимая высота штабелирования, м и/или ярусы, которая определяется
+производителем груза, исходя из требований сохранности (укладка в грузовых
+помещениях судов возможна на высоту до 8 и более метров), с учетом массы
+грузовых   мест и инерционных       нагрузок, возникающих      при морской
+транспортировке;
+     - угол статической устойчивости х> град. - острый угол между горизонтальной
+плоскостью и наклоняемым основанием штабеля груза в момент начала его
+разрушения в любой форме: опрокидывания, соскальзывания или потери
+устойчивости структуры штабеля (приложение № 5 к настоящим Правилам). Угол
+определяется по фактическим замерам на специальной установке, состоящей из
+наклоняемой платформы соответствующей грузоподъемности, размерами не менее
+1200x2600 мм (например, грузовые и штивующие ковши для перегрузки грузов,
+кузов самосвала, 20-футовый ролл-трейлер и т.п.), позволяющей сформировать
+представительный     фрагмент исследуемой структуры          штабеля, бортового
+ограждения высотой не менее 300 мм в одной из узких частей платформы и
+устройства для замера угла наклона основания платформы (структуры штабеля)
+относительно горизонта с ценой шкапы деления не более 1°. Угол статической
+устойчивости х должен быть указан (определен) для структурообразующих грузов с
+удельным погрузочным объемом р < 1,5 м3/т и для штабелируемых грузов при
+перевозках на верхней палубе и люковых крышках судов независимо от ц;
+     - коэффициенты трения покоя пар груз-груз, груз-стапь, груз-дерево или груз
+и другие противоскользящие материалы, рекомендуемые к применению для
+повышения устойчивости структуры данного груза, определяются на установке,
+описанной в предыдущем абзаце, как тангенс угла наклона основания платформы в
+момент начала соскальзывания груза по исследуемому основанию;
+     - коэффициент проницаемости к - отношение между объемом пустот в
+штабеле и общим объемом штабеля груза:
+
+
+                                                                                        ItlW
+            где V,UT- общий объем, занимаемый штабелем груза в грузовом помещении
+                      судна, м3;
+                      Vrp - чистый объем груза (сумма объемов грузовых мест), м \
+     Коэффициент проницаемости определяется по фактическим замерам
+штабелей на судах, в вагонах или мерных емкостях с точностью не ниже ±5%
+измеряемой величины;
+
+
+
+
+                                                                                   42
+                                                       R ules for S afe Carriage of C argoes B y Sea
+
+
+- stowage factor p, mVt - the space occupied by a mass unit of the cargo at the accepted
+stowage pattern - determined according to the results of actual measurements carried out
+on ships, in wagons or in sounding reservoirs with an accuracy of at least ±5%;
+- permissible stacking height, m and/or tiers, is determined by the cargo manufacturer
+with regard to the integrity requirements fthe cargo stowage in cargo spaces is possible
+for the height up to 8m and more) taking into account mass of cargo units and inertia
+forces occurring during sea transportation;
+- static stability angle %, deg., - is an acute angle between the horizontal plane and the
+inclining bottom plane of the cargo structure at the initial moment of its collapse in any
+form: tipping, sliding or loss of stability of the structure (annex No. 5 to'the present
+Rules). It is determined by actual measurements using special apparatus consisting of: a
+tilting platform of respective cargo capacity, of at least 1200x2600 mm dimensions (for
+example, cargo loading and trimming flats for cargo handling, body of a dump truck, 20'
+roll-trailer etc.) allowing to obtain a representative fragment of the stack structure;
+equipped with side guards of at least 300 mm high on one of its narrow sections; and a
+special device to measure the angle of inclination of the platform base (stack structure)
+relatively to the horizon with the scale interval of not more than 1®. Static Stability Angle
+X should be specified (determined) for the structurizing cargoes having stowage factor
+(p < 1 mVt) and for stacked cargoes when transported on the upper deck and hatch covers
+irrespective of p;
+- static friction coefficients for pairs cargo-cargo, cargo-steel, cargo-timber or cargo-other
+antiskid materials recommended for application to increase stability of the given cargo
+structure can be determined by means of the apparatus described in the above paragraph
+as the tangent of an angle of inclination of the platform base when the cargo starts sliding
+down on the studied base;
+- permeability factor к - the ratio between the void volume in the stack and the total
+volume of the cargo stack
+
+
+
+     where v st - total volume, occupied by the cargo slack in the cargo space, m3;
+           Vc - net caigo volume (sum of volumes of cargo units), m \
+Cargo peimeability factor is determined upon actual measurements of Stacks on ships, in
+wagons or in sounding leservoirs with accuracy of at least ±5% of the measured value.
+
+
+
+
+                                             43
+ПРАВИЛА ВП’ЮПАСНОСП I МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+      - химические свойства и другие потенциальные опасности приводятся
+разработчиком с указанием Класса ИМО, номера ООН и номера аварийной
+карточки со ссылкой на источник получения сведений.
+     Каждая из вышеперечисленных                  характеристик   приводится,   если   она
+применима к данному грузу.
+     Транспортные и особые свойства груза - в этом разделе должны быть указаны
+свойства груза, определяющие его совместимость с другими грузами, требующие
+принятия специальных мер защиты работающих и т.п.
+     Нормы расхода материалов и средств крепления груза - в этом разделе могут
+быть уточнены нормы расхода, приведенные в приложении № 6 к настоящим
+Правилам, с учетом фактического угла статической устойчивости груза, других
+транспортных характеристик груза, района предстоящей перевозки, используемых
+противоскользящих материалов и других факторов.
+     Требования к укладке и креплению груза - в этом разделе должны быть
+перечислены меры, обеспечивающие его сохранность, несмещаемость и пр., или
+ссылка на документ, в котором они приведены, например, на наставление по
+креплению грузов.
+      Дополнительные документы - этот раздел заполняется, если груз следует в
+виде укрупненных грузовых мест, сформированных с применением несущих
+средств пакетирования (документ о прочности несущих средств пакетирования),
+или в транспортных средствах укрупнения под пломбами отправителя (Декларация
+о соответствии укладки и крепления груза в транспортном средстве условиям
+морской перевозки), с использованием подкарантинных материалов или объектов,
+например, лесоматериалов (карантинное свидетельство) и в других случаях, при
+необходимости.
+     При недостатке места на бланке вся необходимая информация может быть
+приведена в одном или нескольких приложениях к информации о грузе.
+      Информация о грузе и приложения к ней должны быть подписаны
+разработчиком с указанием: "По поручению грузоотправителя”.
+
+
+
+
+                                                 44
+                                                        Rules for S afe C arriage of C argoes B y Sf.\
+
+
+- chemical properties and other potential hazards are given by the elaborator specifying
+IMO class, UN No. and EmS No. with reference to the source of the information obtained.
+Each of the above-listed characteristics is specified if applicable to the given kind of
+cargo if applicable.
+Transport and specific properties of the cargo - in this section the properties of the cargo,
+which determine its compatibility with other cargoes as well as the properties requiring
+special measures to ensure safety of the personnel etc. should be specified.
+Materials and securing devices consumption standards - in this entry the consumption
+standards given in Annex No. 6 to the present Rules may be specified more exactly taking
+into account actual static stability angle of the cargo, other transport characteristics of the
+cargo, region of the forthcoming transportation, antiskid materials used and other factors.
+Requirements on cargo stowage and securing - in this section the measurements providing
+its integrity, non-shiftability and so on or reference on a document in which they are given
+for example on Cargo Securing Manual should be listed.
+Additional documents - this section should be filled in if the cargo consists of units
+formed by the use of hoisting packaging means (Document on the safety of hoisting
+packaging means), or if Cargo Transport Units are under the shipper’s seals (Cargo
+Stowage and Securing Declaration), or if the cargo has any quarantine materials or
+objects, e.g. timber (Quarantine Certificate) and in other cases, where necessary.
+If it is not enough space in the form all the necessary information may be given in one or
+more annexes.
+The elaborator should sign the Cargo Information and annexes, and the following note
+should enter the form afterwards: “On behalf of the shipper”.
+
+
+
+
+                                              45
+П рави л а безо пасн о сти м о рск о П перево зки грузо в
+
+
+                                                                                             ПРИЛОЖЕНИЕ № 2
+                                                                                        к Правилам безопасности
+                                                                                        морской перевозки грузов
+                                                                                                                       (п. 12)
+                                                                                                                (ОБРАЗЕЦ)
+                                     О просны й листок
+                    по обеспечению безопасности работ на судне и берегу*
+                                  (Рекомендуемая форма)
+                  Название судна_____________________
+                  Порт            _____________________ Причал___
+                  Дата прибы i ия     _______ _ _ ______ Д т a o*iхода
+                                                                                                          Организация,
+                                                                                               Судно      выполняющая
+                                                                                                           перегрузку
+      I Соответствуют ли швартовные меры и устройства всем местным условиям,
+      приливам, течениям, погоде, движению судов и шшвередегв, находящихся у
+                                                                                                 □               □
+      причала?
+      2 Имеется ли безопасное средство прохода с судна на причал?
+      11а ответственности судпа/организации, выполняющей перегрузку (вычеркнуть                  □               □
+      необходимое)
+      3 Безопасна ли атмосфера о трюмах и закрытых помещениях, в которые
+      может потребоваться доступ; определены ли грузы, прошедшие обработку
+      фумигантами, и согласована ли между судном и организацией, выполняющей
+                                                                                                 □               □
+      перегрузку, необходимость проведения контроля атмосферы?
+      4. Обеспечена ли на судне достаточная освещенность?                                        □               □
+      5. Находится ли в рабочем состоянии система связи судно - организация,
+      выполняющая перегрузку?
+      Способ связи........ Язык . . . .                                                          □               □
+      Радио кап ал ы/номера телефонов , . . .
+      6. Была ли согласована процедур» сообщений и регистрации повреждений,
+      полученных при проведении грузовых операции?                                               □               □
+      7 Обеспечил ли грузовладелец капитана информацией о трузе в соответствии
+      с требованиями главы VI Конвенции СОЛ АС-74?                                               □               □
+      8. Имеется ли на борту Наставление по креплению груза, подлежащего
+      погрузке?                                                                                  □               □
+      9 Обсуждался ли вопрос необходимости крепления груза и была ли
+      достигнута договоренность о методе укладки и схеме крепления?                              □               □
+       10 Обеспечено ли судно достаточным количеством сепорационных и
+      крепежных материалов и устройств?                                                           d              а
+       11. Извещена ли организация, выполняющая перегрузку, о времени,
+      необходимом судну для подготовки к выходу в море по завершении грузовых                     □              □
+      операций?
+
+                  Представитель судна                                     Представитель береговой службы
+ Подпись          ________________                           П одпись       ________________________________________
+ Фам ил ия        ________________                           Фамилия        ____________________________
+ Занимаемая должность                                        Занимаемая дол ж ность                     _____
+
+
+
+         Капитан заполняет опросный листок вместе с оператором организации, выполняющей перегрузку              Безопасность при
+проведении работ может быть ырлитнроилна только в том случае, если на все прицеленные в листке вопросы будет дан положительный
+ответ U противном случае после обоснования причины отрицательною ответа администрации судна н береговой службе следует
+согласовать вопрос о принятии соответствующих мер предосторожности. Если ответ на вопрос не представляется возможным, следует
+сделать соответствующую пометку.
+                                                                                     R u les fo r S a f e C a r r ia g e o f C a r g o e s B y S ea
+
+
+                                                                                                                   Annex No. 2
+                                                                                                 to the Rules for Safe Carriage
+                                                                                                             o f Cargoes by Sea
+                                                                                                                         (n. 12)
+                                                                                                                    (SAMPLE)
+                                               Ship/Shore Safety Checklist*
+                                                 (the recommended form)
+ Ship's name        ____________________________
+ Port                                                     Berth
+ Dale o f arrival _______________________                 Dale o f departure
+                                                                                                                                   O rg a n i­
+                                                                                                                                    zation,
+                                                                                                                      Ship
+                                                                                                                                 p e rfo rm in g
+                                                                                                                                   han d lin g
+   1 Do m ooring arrangements and m easures meet all local conditions (ides, currents, weather,
+                                                                                                                        □               a
+  traffic o f ships and other crafts, which are at the quay?
+  2 Is there safe access from the ship to'the quay? Tended by the slup/organizntion, performing
+                                                                                                                        □               □
+  handling, (cross out the appropriate)
+  3 Is the atm osphere safe in holds and enclosed spaces, to which access may he required, have
+  fumigated cargoes been identified, and has the need for tnnnitonng o f ntinospheie been agreed                       □                □
+  by ship and organization, performing handling?
+  4 Is sufficient light provided on the ship?                                                                          D               □
+  5 Is the ship / organization, peifonning handling, comm unications system operative?
+  Communications m ethod..          Language........                                                                   □               □
+  Radio channels/phone numbers
+  6 Has the procedure for reports and recording on dam ages from cargo operations been agreed?                         □               □
+  7 Has the shippei provided the M aster with caigo information in accordance with the
+                                                                                                                       □               □
+  requirements o f chapter VI o f SOLAS-74?
+  8 Is there Cargo Securing Manual for the cargo to be loaded aboaid the ship?                                          □               □
+  9 Has the need for securing o f the cargo been discussed and the method o f stowage and scheme
+                                                                                                                        □               □
+  o f securing been agreed?
+   10 Is the ship supplied with sufficient quantity o f dunnage and securing m atenats and
+                                                                                                                        О               □
+  arrangements?.
+   11 Has the organization, performing handling, been advised o f the time required for the ship to
+  prepare for sea, on completion o f cargo woiks?
+                                                                                                                        О               о
+
+                Ship’s representative                                                        Shore representative
+
+
+ M aster's signature                                              Signature
+ Last name_______                                                 Last Name
+ Position                                                         Position
+
+
+
+
+         * The Master and operator of die organization, performing handling, complete the checklist jointly The safely of operations requires that
+all specified in the checklist questions should be answered affirmatively. Otherwise, having grounded the reason for negative answer the ship's
+administration and the terminal should reach agreement upon appropriate precautions to be taken If an answer to a question is considered to be
+not applicable, write an appropriate note
+
+
+                                                                       47
+11РАШ 1ЛА БЕ’Ю ПАП ЮС Г( I МОРСКОЙ ПЕРЕВОЗА I ГРУ ЗОВ
+
+
+                                                                                ПРИЛОЖЕНИЕ № 3
+                                                                           к Правилам безопасности
+                                                                           морской перевозки грузов
+                                                                                             (П. 13)
+                                                                                        (ОБРАЗЕЦ)
+                                           Документ
+                            о безопасной укладке и креплении груза
+                                     (Рекомендуемая форма)
+
+         Порт погрузки                _________________________________________
+         Дата п о г р у з к и _________________________________________
+         Настоящим удостоверяется, что груз __________________________
+                                                               (наименование и количество груза)
+
+
+         погруженный на судно                    __________________________________
+                                                               (наименование судна)
+
+
+
+
+         соответствует информации о грузе №
+
+       Настоящим удостоверяется, что укладка и крепление груза на судне
+ выполнены освидетельствованными средствами крепления и соответствуют
+ требованиям:
+      Г1 судового Наставления по креплению грузов и
+      ! J судовой ИнфЬрмации об остойчивости и/или
+      П судового расчета остойчивости с грузом и
+      I ! Правил безопасности морской перевозки грузов и/или
+      □ рекомендациям подписавшей организации
+и обеспечивают его безопасную и сохранную морскую перевозку в порт назначения
+
+
+
+          Наименование и статус подписавшей организации
+
+                                    М.П.                _______________________ _ (подпись)
+
+        М есто________________________ Дата                             ________
+
+        По поручению грузоотправителя (перевозчика)
+
+
+
+
+                                                        48
+                                                       K U L B 5 I* UK. dA M S b A K K IA U fc и г ^ A K U U U a О I J C A
+
+
+
+                                                                                  ANNEX No. 3
+                                                                   to the Rules for Safe Carriage
+                                                                               of Cargoes by Sea
+                                                                                          (P- 13)
+                                                                                      (SAMPLE)
+
+                                       Certificate
+                       of the Safe Stowage and Securing of Cargo
+Port, berth of loading __________________________________
+
+Date of loading completion ______________________________
+
+THIS IS TO CERTIFY, that a cargo of        ___________________
+
+                                                            ( п я т е fttid quantity of the cargo)
+
+loaded on board the ship__________________________________________________
+                                                       (ship's name)
+
+
+complies with Cargo Information No. _______________________________________
+
+This is to certify, that stowage and securing on the ship of the above-mentioned cargo
+have been performed by means of the certified securing devices in accordance with the
+requirements of:
+    I.J Ship's Cargo Securing Manual and/or
+    IJ Cargo Information and
+    LI Ship's Stability Booklet and/or
+    П Ship's Stability Calculations and
+    LI Code of Safe Practice for Cargo stowage and Securing, or
+    □ Rules for the Safe Carriage of Cargoes by Sea, and/or
+    U the recommendations of the signatory organization,
+ and provide integrity of the cargo and safe sea carriage to the port of destination
+
+
+Name / status of signatory organisation
+
+
+Place______________________ Date_
+
+Signature on behalf of the shipper (carrier)
+
+
+
+
+                                               49
+П р а в и л а б е з о п а с н о с ти м о рск о й перев озки гр уз о в
+
+
+                                                                                  ПРИЛОЖЕНИЕ № 4
+                                                                             к Правилам безопасности
+                                                                             морской перевозки грузов
+                                                                                           (пп. 29, 60)
+                                                                                          Справочное
+                                   Технические характеристики материалов
+                                    с повышенным коэффициентом трения
+      ЬБризол марок БР-С и БР-П по ТУ 38.1051819-88 представляет собой
+безосновный материал, изготовленный методом вальцевания и последующего
+капандирования смеси, состоящей из нефтяного битума, дробленой резины ( из
+старых автопокрышек ), асбеста и пластификатора. Бризол поставляется в рулонах
+шириной 425-1000 мм. Длина полотна в рулоне 10-50 м.
+      2. Рубероид представляет собой картон по ГОСТ 3135, пропитанный мягкими
+нефтяными битумами (кровельными) по ГОСТ 9548 с последующим нанесением на
+обе стороны полотна тугоплавкого битума с наполнителем и крупнозернистой
+посыпкой с одной стороны полотна. Рубероид поставляется в рулонах шириной
+1000-1050 мм. Длина полотна в рулоне 10-15 м. Токсичных веществ при нагревании
+до 70°С рубероид не выделяет.
+     3. Изол по ГОСТ 10296 представляет собой безосновный биостойкий гидро- и
+пароизоляционный материал, получаемый из резинобитумного вяжущего вещества,
+пластификатора, наполнителя, антисептика и полимерных добавок. Поставляется в
+виде рулонов из полотна толщиной 2 мм, шириной 800 или 1000 мм и длиной 10
+или 15 метров.
+      4. Стеклорубероид по ГОСТ 15879 представляет собой кровельный и
+гидроизоляционный материал на стекловолокнистой основе, получаемый путем
+двустороннего нанесения битумного вяжущего вещества на стекло волокнистый
+холст. Поставляется в виде полотна толщиной 2,5 мм, шириной 960 или 1000 мм и
+площадью 10 м, свернутого в рулоны. Выпускается с крупнозернистой (С-РК),
+мелкозернистой (С-РМ) или чешуйчатой (С-РЧ) посыпкой с лицевой стороны и
+мелкой (пылевидной) с нижней стороны. Применение стеклорубероида с
+чешуйчатой посыпкой (С-РЧ) для целей крепления груза не допускается.
+     5. Древесина преимущественно малоценных пород в виде досок, брусьев,
+клиньев и фанеры.
+     6. Другие виды специальных материалов с повышенным коэффициентом
+трения или клеящим эффектом.
+      При    расчетах   смещаемости грузов следует применять значения
+коэффициентов трения, выделенные жирно в таблице П.4 Л, если в информации о
+грузе не указаны иные значения.
+
+
+
+                                                                        50
+                                                        R ules for Safe C arriage of C argoes B y Sea
+
+                                                                                      Annex 4
+                                                                to the Rules for Safe Carriage
+                                                                            of Cargoes by Sea
+                                                                                   (pp. 29,60)
+                                                                                     Reference
+                          Technical Characteristics of materials
+                           with an increased frictiori coefficient
+ 1 Brizol (bituminous rubber) of types BR-S and BR-P according to Specifications
+TU 38.1051819-88, is baseless material, manufactured by forge rolling and further
+calendering of a mixture, consisting of oil bitumen, crushed rubber (of old automobile
+tires), asbestos and plasticizer, Brizol is supplied in rolls 425-1000 mm wide. Length of a
+sheet in a roll is 10-50 m.
+2 Ruberoid is carton according to GOST 3135, impregnated with soft oil bitumen
+(roofing) according to GOST 9548 with further application of high-melting bitumen with
+filler to both sides of the sheet and coarse-grained grit to one side of the sheet. Ruberoid is
+supplied in rolls of 1000-1050 mm wide. Ruberoid is supplied in rolls 10-15 m long.
+Ruberoid does not evolve toxic substances when heated up to 70°C.
+3 izol according to GOST 10296 is a baseless bio-resistant, water- and vapour­
+proofing material, made of from rubber-bitumen agent, plasticizer, filler, antiseptic and
+polymeric additives. It is supplied in the form of roils of sheets of 2 mm thick, in rolls of
+800 or 1000 mm wide and 10 or 15 m long.
+4 Fibreglass ruberoid according to GOST 15870 is a roofing and waterproofing
+material on a fibreglass base made by means of double-sided application of binding
+bitumen agent on fibreglass canvas. It is supplied in the form of sheet of 2.5 mm thick,
+960 or 1000 mm wide, 10 m2 area, folded in rolls. It is manufactured with coarse-grained
+(S-RK), fine-grained (S-RM) or scaly (S-RCH) grit on the face side and fine (powdered)
+grit on the underside of the material. Fibreglass ruberoid with scaly grit (S-RCH) shall not
+be applied for cargo securing purposes.
+5 Timber of predominantly soft of little value sorts, in the form of boards, beams,
+wedges and plywood.
+6 Other kinds of special materials with an increased friction coefficient or gluing
+effect.
+When calculating shifting of cargoes the values of friction coefficients singled out in table
+A.4.1 in bold, shall be applied, if other values are not specified in the Cargo Information.
+
+
+
+
+                                              51
+П р а в и л а б е з о п а с н о с ти м о р с к о й пер ев озки гр уз о в
+
+
+
+                                                                                                            Таблица П.4.1
+
+                                                                       Коэффициент трения
+                               Пара трения                                                         Arctg (f)
+                                                                            покоя, f
+
+                             чугун по стали                                          0,32            18°
+                            чугун по дереву                                          0,72            36°
+                          чугун по бризолу,                                          0,81            39°
+                             рубероиду
+                             сталь по стали                                  0,15/0,18/0,21          12°
+                            сталь по дереву                                0,3/0,4/0,5-0,6 (0,5)     27°
+                            сталь по резине                                  0,5/0,6/0,7 (0,6)       31°
+                        сталь по рубероиду                                           0,7             35°
+                           дерево по дереву                                  0,45/0,65 (0,55)        29°
+                           резина по дереву                                      0,6/0,8 (0,7)       35°
+                       мешковина (джут) по                                           0,62            32°
+                           мешковине
+                        мешковина по стали                                           0,45            25°
+                       мешковина по дереву                                           0,5             27°
+                     железобетон по дереву                                           0,55            29°
+                           бумага по бумаге                                          0,4             22°
+                            бумага по стали                                          0,35             19°
+                           бумага по дереву                                           0,4            22°
+
+
+
+
+                                                                            52
+                                            R ules for Safe C ar riag e of C argoes B y Sea
+
+
+
+                                                                            Table A.4.1
+
+                                    Static friction
+         Friction pair                                          Arctg(f)
+                                    coefficient, f
+
+cast iron - steel                          0.32                    18°
+cast iron - timber                        0.72                     36°
+cast iron - brizol                        0.81                     39°
+(bituminous rubber),
+ruberoid
+steel - steel                        0.15/0.18/0.21                12°
+steel - timber                 0.3/0.4/0.5-0.6 (0.5)              27°
+steel - rubber                      0.5/0.6/0.7 (0.6)             31°
+steel - ruberoid                           0.7                    35°
+timber - timber                     0.45/0.65 (0.55)              29°
+rubber - timber                       0.6/0.8 (0.7)               35°
+sacking (jute) - sacking                  0.62                    32°
+sacking - steel                           0.45                    25°
+sacking - timber                           0.5                    27°
+reinforced concrete - timber              0.55                    29°
+paper - paper                              0.4                    22°
+paper - steel                             0.35                     19°
+paper - timber                             0.4                    22°
+
+
+
+
+                               53
+П р а в и л а б е з о п а с н о с ти м о р с к о й перев озки гр узов
+
+
+                                                                        ПРИЛОЖЕНИЕ № 5
+                                                                    к Правилам безопасности
+                                                                   морской перевозки грузов
+                                                                                      (п. 34)
+                                 М етодика расчета критерия несмещаемостн
+                                        структурообразующих грузов
+                                                              1. Определения
+      Нестандартизированный груз означает груз, для укладки и крепления
+которого каждый раз требуется индивидуальный подход.
+      Иестандартизированные грузы делятся на две большие группы: грузовые
+места и структурообразующие грузы.
+      Грузовые места - это грузы, размещение и крепление которых производится в
+индивидуальном порядке путем соединения каждого грузового места с
+конструкциями корпуса судна.
+      Все      остальные       иестандартизированные        грузы     являются
+структурообразующими, т.е. при укладке на судне они образуют дискретные
+(составленные из отдельных элементов) структуры - штабели, свойства которых
+зависят не только от характеристик отдельных грузовых мест, но и от порядка,
+направления, способа их укладки. Один и тот же груз, уложенный различными
+способами, образует штабели, обладающие различающимися свойствами, в том
+числе разной степенью устойчивости в отношении смещения в различных
+направлениях действия внешних сил.
+      В качестве измерителя способности штабеля структурообразующего груза
+противостоять смещению применяется угол статической устойчивости структуры X -
+острый угол между горизонтальной плоскостью и наклоняемым основанием
+штабеля в момент начала разрушения его структуры в любой форме:
+опрокидывания, соскальзывания или потери устойчивости структуры.
+      Например, угол статической устойчивости структуры штабеля в зависимости
+от способа укладки рулонов в верхнем ярусе:
+
+
+
+
+                        ЛГ=30°, при этом угле                           или      ^=50°, при этом угле
+                      происходит выкатывание                                     наклона происходит
+                       рулонов, не имеющих в                                  выдавливание рулонов из
+                       верхнем ярусе опоры на                                 верхнего яруса, имеющего
+                            борта судна                                         опору на борта судна.
+
+
+                                                                        54
+                                                                  Rules for S afe C arriage of C argoes B y Sea
+
+
+                                                                                          ANNEX No. 5
+                                                                           to the Rules for Safe Carriage
+                                                                                       of Cargoes by Sea
+                                                                                                       (P -3 4 )
+
+                   T h e M e th o d o f C a lc u la tio n o f N o n -s h ift C rit e rio n
+                                   fo r S t ru c t u riz in g C a r g o e s
+
+                                              1 Definitions
+
+Non-Standardized Cargo (according to the IMO terminology) means a cargo, which
+requires individual stowage and securing arrangements.
+Non-standardized cargoes are subdivided into two groups to ensure their securing:
+    a) cargo units;
+    b) cargo structures (structurizing cargoes).
+Cargo units are cargoes, stowage and securing of which are performed in an individual
+manner by connecting each separate cargo unit to the ship’s hull.
+All the rest non-standardized cargoes are considered as cargo structures (structurizing i
+cargoes), which being stowed on a ship, arrange discrete structures - bodies (stacks).
+A cargo structure is a discrete structure, comprising of separate packages, metal rolled
+products, pig iron, metal scrap and so on (of general or break-bulk cargo) stacked according
+to the given stowage pattern. The properties of cargo structures depend not only on the
+characteristics of individual cargo elements, but also on the order, direction and method of
+their stowage. One and the same cargo, stowed by using different patterns, generate
+different structures, which possess different properties, including resistance to shift due to
+external forces.
+Static stability angle x of a structure is used as a measuring criterion of ability of a stack
+of a structurizing cargo to resist shift. It is an acute angle between the horizontal plane
+and the inclining bottom plane of the structure at the initial moment of its collapse in any
+form: tipping, sliding or loss of stability of the structure.
+Examples of coils stowage patterns in the upper tier of a stack at different Static Stability
+Angles x are given below:
+
+
+
+
+     ^T=30°, the coils not supported at the 1 or              X~50°, the coils supported at the
+      ship’s sides in the top tier will start                ship’s sides in the top tier will start
+                   rolling out,                                 squeeze out from the top tier.
+
+
+                                                     55
+11РАВИЛ А БЕЗОПАСНОСТИ МОРСКОМ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+
+       Для каждого груза, рекомендуемая структура штабеля которого достаточно
+хорошо изучена, значение угла статической устойчивости х приводится в
+нормативных технических актах по безопасности морской перевозки конкретных
+видов генеральных грузов. Во всех случаях значение угла статической устойчивости
+структуры штабеля1 % должно быть определено по методике, приведенной в
+приложении № 1 к настоящим Правилам, п указано разработчиком в информации о
+грузе.
+
+                                   2. Критерий iiccfticimiCMocin
+
+     Безопасность перевозки структурообразующего груза оценивается критерием
+песмешаемости в виде
+                                                  0,
+                                           Л =                               (П.5.1)
+                                                  0 tf)V
+где
+       <9, - угол динамической устойчивости груза, град.,
+             <9, = F (х, Тк, района плавания);
+       Тк - период бортовой качки судна с грузом, с;
+             амплитуда бортовой качки судна с грузом в трюмах или угол
+             динамического крена судна с грузом на верхней палубе при бортовой качке
+             судна без хода лагом к резонансному волнению, соответствующему району
+             предстоящего плавания, град.,
+             6!/,,,“ F {h(ii района плавания);
+       /?„ - начальная метацентрическая высота судна с грузом, м.
+
+      2.1. Угол динамической устойчивости груза 0 , определяется путем пересчета
+известного значения угла статической устойчивости % с учетом характера загрузки
+судна и направления перевозки, определяющих динамику качки судна.
+     В зависимости от расположения поверхности смещения штабеля груза (выше
+центра тяжести судна или ниже его) применяются две разные динамические
+модели, каждая из которых состоит из двух вариантов:
+   - с учетом орбитального движения судна (вертикальной качки на регулярном
+     волнении) на основе амплитуды бортовой качки низкобортного судна;
+   - без учета орбитального движения суднА, но на основе учета динамического
+     угла крена судна с большой площадью парусности.
+     2.1.1. При перевозке груза, поверхность которого располагается выше центра
+тяжести судна, 0 , - угол динамической устойчивости груза определяется по
+графикам с соответствующим х или путем решения относительно 0, (в радианах)
+следующих уравнений.
+
+
+
+
+                                                   56
+                                                         R ules for Safe Carriage of C argoes By Sea
+
+
+
+Original researches have been made to determine static stability angles x f°r different
+kinds of structuring cargoes, the values of which are given in the national Rules for safe
+sea carriage of particular kinds of general cargoes. For each structure pattern the value of
+static stability angle x should be determined in accordance with Annex No. 1 to the
+present Rules, and be indicated by the elaborator of the Cargo Information.
+
+                                   2 Non-shift Criterion
+
+Safe carriage by sea of Structurizing cargo is estimated with the help of the Non-shift
+Criterion in the following formula:
+
+                                       Л = - ^ > 1 ,                                      ( A . 5.1)
+
+
+where
+    &x - cargo structure dynamic stability angle, deg,
+         @A= F (x, sea navigation area);
+    Tfi _rolling period of the ship with cargo, sec.
+   (^„-rolling amplitude of the ship with cargo in a holds, or dynamic heeling angle of
+          the ship with cargo on the upper deck (or high above-water sided ship) during
+          rolling beam on to the resonance heaving, corresponding to the sea navigation
+          area of the ship, which is not run, deg,
+                = F (h0, sea navigation area);
+     h0 - initial metacentric height of the ship with cargo, m.
+
+2.1          Cargo Structure Dynamic Stability Angle Gx - is determined on the basis of
+the known Cargo Structure Static Stability Angle x5taking into account the nature of the
+ship’s loading and sea navigation area, which define the'dynamics of the ship’s rolling
+and pitching.
+Depending on the location of the surface of shifting of a stack of the cargo (above the
+ship's centre of gravity or below it), two different dynamic models are applied, and each
+of them consists of two variants:
+   - on the basis of the rolling amplitude of a low above-water sided ship;
+   - on the basis of the dynamic heeling angle of a ship with large side windage area.
+2.1.1        When transporting the cargo, whose surface is above the ship’s centre of
+gravity, 0 S - cargo dynamic stability angle should be determined according to the
+diagrams with the respective x or by solving, in relation to 0 S(in radians), the following
+equations:
+
+
+
+
+                                            57
+11)>АИЩ1А ЬЫ011АСН0СТИ МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+       На основе амплитуды бортовой качки низкобортного судна:
+
+                                           SinS ^ + z                  ^ ©Л
+                                <8Х------------------ f f -------- = 0             (П.5.2)
+                                       C’av©,                  П       С osQ(
+                                                          g>:
+       На основе динамического угла крена судна с большой площадью парусности:
+                                                     4л-2
+                                           *■/!©, + г * е л
+                                   t g x ---------- —                  ----- = 0   (П .53)
+                                                   C   cas ©       ,
+
+
+
+     2.1.2.      При перевозке груза, поверхность которого располагается ниже центра
+тяжести судна,     - угол динамической устойчивости груза определяется по
+графикам с соответствующим X или путем решения относительно €>л следующих
+уравнений.
+       На основе амплитуды бортовой качки низкобортного судна:
+
+                                I8 X ------------- ------------------- = 0         (П.5.4)
+                                                       4л"
+                                        С ол0ч “ /'0 —,-Cay©v
+
+       На основе динамического угла крена судна с большой площадью парусности:
+                                                   57/?©д
+                                          tg Z ~          =0                       (П.5.5)
+                                                   СО50Ч
+где
+      1\ - период бортовой качки судна с грузом, с;
+      ^Г-угол статической устойчивости груза, град.;
+      £ - ускорение свободного падения (g~9,8l м/с2);
+      /■„ - полу высота волны, соответствующей району плавания, м;
+       - - вертикальное отстояние поверхности смещения (узла разрушения
+           структуры) груза от центра тяжести судна, м.
+      2.2.       Угол динамического крена <%„ и амплитуда бортовой качки судна для
+расчета критерия леемещаемости определяются по следующей методике.
+       Приняты следующие определения районов плавания судна:
+     Неограниченный - плавание в океанах и морях на волнении с расчетной
+высотой волны 3%-ной обеспеченности 11м;
+
+
+
+
+                                                       58
+                                                                   Rules for Safe C arriage of C argoes B y Sea
+
+
+On the basis of the rolling amplitude of a low above-water sided ship
+                                                           4n
+                                           57/10 v + г — 2 0 ,
+                               fg z - ---------:— 4n2
+                                                   sir—                  =0.                          (A.5.2)
+                                        C<w©v - r 0 — T C o s e ,
+                                                       g*r
+On the basis of the dynamic heeling angle of a ship with large side windage area:
+                                                           4л-2
+                                                       8 ТГ            = 0.                           (A.5.3)
+                                                    Cos©л
+2.1.2        When transporting a cargo, the surface of which is below the ship's centre of
+gravity, Cargo Dynamic Stability Angle 0 S should be determined by diagrams with the
+respective x or by solving in relation to 0 5the following equations:
+On the basis of the lolling amplitude of a low above-water sided ship
+                                        _________ 5 / н 0 д.
+                               tg x -                                   -=    0.                      (A.5.4)
+                                        ^ л            4л:2 ^      л
+                                        CosO v - r0 — у Cos 0 v
+                                                       g Tr
+
+On the basis of the dynamic heeling angle of a ship with large side windage area
+                                                    S7w0t
+                                           tg x -               = 0,                                  (A.5.5)
+                                                    Cos 0 ,
+
+where
+     rr - rolling period of a ship with cargo, sec.;
+      X ' cargo static stability angle, deg.;
+      g - acceleration of gravity, g=9.81 m/sec2;
+        - semi-height of a wave, corresponding to the sea navigation area, m;
+      z - vertical distance between the cargo shifting surface and the ship’s centre of
+          gravity, m.
+2.2           Dynamic heeling angle ©dy„ and the rolling amplitude of the ship for non-
+shift criterion calculation should be determined by the following method.
+There are the following accepted definitions for sea navigation areas:
+Unrestricted - navigation in oceans and sea areas at seas with design value of wave height
+with 3 % probability of 11 m;
+
+
+
+
+                                                      59
+11РАВИЛА БЕЗОПАСНОСТИ МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+      Ограниченный I - плавание в морских районах на волнении с максимальной
+допустимой высотой волны 3%-ной обеспеченности 8,5 м, с удалением от места
+убежища не более 200 миль и с допустимым расстоянием между местами убежища
+не более 400 миль;
+      Ограниченный II - плавание в морских районах на волнении с максимальной
+допустимой высотой волны 3%-иой обеспеченности 7 м, с удалением от места
+убежища не более 100 миль и с допустимым расстоянием между местами убежища
+не более 200 миль;
+      Ограниченный II СП - смешанное (река-море) плавание на волнении с
+максимальной допустимой высотой волны 3%-ной обеспеченности 6 м, с удалением
+от места убежища:
+     - в открытых морях не более 50 миль и с допустимым расстоянием между
+местами убежища не более 100 миль,
+     - в закрытых морях не более 100 миль и с допустимым расстоянием между
+местами убежища не более 200 миль;
+     Ограниченный III СП - смешанное (река - море) плавание на волнении с
+максимальной допустимой высотой волны 3%-ной обеспеченности 3,5 м, с учетом
+конкретных ограничений по району и условиям плавания, обусловленных ветро­
+волновыми режимами бассейнов, с установлением при этом максимально
+допустимого удаления от места убежища, которое не должно превышать 50 миль;
+      М-СП - смешанное (река - море) плавание на волнении с максимальной
+допустимой высотой волны 3%-ной обеспеченности 3,5 м в морских районах,
+указанных в судовом классификационном свидетельстве.
+       2.2.1. Расчет кренящего момента от давления ветра.
+     • 2.2.1.1. Кренящий момент МА,, кН*м принимается равным произведению
+давления ветра р у, Па на площадь парусности Л1М м2 и на отстояние центра
+парусности z , м от плоскости действующей ватерлинии
+                                        Mv ~          p vAvz .              (П.5.6)
+
+       Кренящий момент принимается постоянным за весь период накренения судна.
+     2.2.1.2. Давление ветра p v принимается по табл. П.5 Л в зависимости от района
+плавания судна и плеча парусности г.
+
+
+
+
+                                                 60
+                                                                                          13
+                                                       RlJLbS FOR SAFE CARRIAGE OF CARGOES V SliA
+
+
+Restricted I - navigation in sea areas at seas with a wave height with 3 % probability of
+exceeding 8.5 m and with the ships proceeding not more than 200 miles away from the
+place of refuge and with an allowable distance between the places of refuge not more than
+400 miles;
+Restricted II - navigation in sea areas at seas with a wave height with 3 % probability of
+exceeding 7.0 m, with ships proceeding from the place of refuge not more than 100 miles
+and with an allowable distance between the places of refuge not more than 200 miles;
+Restricted И СП - river-sea navigation at seas with a wave height with 3 % probability of
+exceeding 6.0 m with ships proceeding from the place of refuge:
+   - in open seas up to 50 miles and with an allowable distance between the places of
+       refuge not more than 100 miles,
+   - in enclosed seas,up to 100 miles and with an allowable distance between the places
+       of refuge not more than 200 miles;
+Restricted III СП - river-sea navigation at seas with a wave height with 3 % probability of
+exceeding 3.5 m with due regard for particular restrictions on the area and conditions of
+navigation resulting from the wind and wave conditions of the basins with determination
+of a maximum allowable distance from the place of refuge which in no case should be
+more than 50 miles;
+M-СП - river-sea navigation with a wave height with 3 % probability of exceeding 3.5 m
+at sea regions according to the ship's Class Certificate.
+2.2.1       Calculation of the heeling moment caused by wind pressure:
+2.2.1.1      The heeling moment Mv , kN-m, is assumed to be equal to the product of
+wind pressure p v, Pa, by windage area Av , m2, and by the distance z, m, between the
+centre of windage area and the actual waterline plane:
+                                    A/lt= 0t0 0 1 /v U -                                (A.5.6)
+The value of heeling moment is assumed to be constant over the whole ship’s heeling
+period.
+2.2.1.2     The values of wind pressure pv , should be taken from table A.5.1 depending
+upon the ship’s sea navigation area and the arm of windage area, z in ni.
+
+
+
+
+                                             61
+ПРАВИЛА БЕЗОПАСНОСТИ МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+                                                                                                                  Таблица П.5 Л
+                                                  Давление ветра p v , Па
+                                                                                      Z, м
+      Район плавания судна                                                                                                      7,0 и
+                             0.5     1,0      1.5    2.0         2,5    з.о        3.5   4,0   4.5    5,0   5,5   6,0     6,5   более
+      Неограниченный                706      785     863 922 971 1010 10-19 1079 1108 1138 1167 1196 1216
+      Ограниченный 1                                  0,5157 дав;пения jЩ)н не<□грани[чешю го рай'она
+      Одраничсииый 11                                 0,2‘75 дмнпения ЦЛЯ UCI□грани[ченно го рай'она
+                                                                               1
+
+
+
+
+         2.2.2. Расчет амплитуды качки.
+     2.2.2.1. Амплитуда качки судна с круглой скулой, не снабженного скуловыми
+килями и брусковым килем, вычисляется по формуле:
+
+                                                       B lr = X tX 2Y.                                                          (П.5.7)
+где      X it Х2 - безразмерные множители;
+               У- множитель, град.
+      Множитель У принимается по табл. П.5.2 в зависимости от района плавания
+судна и отношения    .
+
+         Множитель X ) принимается по табл. П.5.3 в зависимости от отношения B/d,
+где           В - ширина судна, м;
+              d - осадка, м.
+     Множитель. Х2 принимается по табл. П.5.4 в зависимости от коэффициента
+общей полноты судна Сц.
+                                                                                                                  Таблица П.5.2
+                              Множитель У и расчетная высота волны
+
+                Район плавания       Расчетная                              VftT/e
+                                      высота         0,04 и                                        0,13 и
+                    судна
+                                       волны         менее 0,05 0,06 0,07 0,08 0,09 0,10 0,11 0,12 более
+               Неограниченный              11,0       24,0        25,0 27,0 29,0 30,7 32,0 33,4 34,4 35,3          36,0
+               Ограниченный 1              8,5        19,0        20,0 22,4 25,1 27.4 29,2 30,8 32,0 32,9          33,5
+               Ограниченный 11             7,0        16,0        17,0 19,7 22,8 25,4 27,6 29,2 30,5 31,4          32,0
+
+
+                                                                                                                  Таблица П.5.3
+                                                      Множитель Х\
+                                      B /d                 .V,                 B /d             A'l
+                                   2,4 и менее          1,0                     3,0            0,90
+                                       2,5             0,98                     3,1            0,88
+                                       2,6             0,96                     3,2            0,86
+                                       2,7             0,95                     3,3            0,84
+                                       2,8             0,93                     3,4            0,82
+                                       2,9             0,91                 3,5 и выше         0,80
+
+
+
+                                                                       62
+                                                                                        R u les for S afe C a r r ia g e of C a r g o es B y S ea
+
+
+                                                                                                                              Table A.5.1
+                                                        Wind pressure p v, Pa
+                                                                                        Z, 111
+        Navigation aica                                                                                                                7.0 &
+                                05      I0        1.5     2.0        25     30     35       40     4 5    50      55     60      65     o\cr
+   Unrestricted                        706      785       863        922    971   1010 1049 1079          1108 1 138     1167 1 196     1216
+   Restricted I                              () 567 cif the \\'ind pr<гssure value a dopicd: for tlx: unres tncted semc<
+   Restricted II                             () 275 cif the wdnd pnsssure value adoptedi for tlxг unres trictcd SCIT 1Cl
+
+
+2,2.2              Calculation of the amplitude of roll.
+2.2.2.1     The amplitude (in deg.) of roiling of a ship with a round bilge, which doesn’t
+have bilge keels and a bar keel should be calculated according to the formula:
+                                                            O lr = ' W            ,                                                   (A.5.7)
+   where           Xh X2 - non-dimensional factors;
+                       V~ factor in deg.
+The values of factor Y shall be taken from Table A.5.2 depending on the ship’s navigation
+area and      ratio.
+The values of factor X( shall be taken from Table A.5.3 depending upon B/d ratio,
+   where         В - breadth of the ship, m;
+                 d -draught, in.
+The values of f a c to r ^ shall be taken from Table A.5.4 depending upon the ship’s total
+block coefficient Сь.
+                                                                                                                              Table A.5.2
+                                     Factor Y and design value of wave height
+                                       Assumed                              fife
+                   Navigation area    waves height, 0 04 &
+                                                                     0 07                          0 13 &
+                                           in         less 0 05 0 06      0 08 0.09 0.10 0.11 0.12 above
+
+              Unrestricted                   11 0         24 0        25 0 27 0 29.0 30 7 32 0 33 4 34 4 35.3             36 0
+              Restricted I                   85            190        20.0 22 4 25,1 27 4 29 2 30 8 32 0 32 9             33 5
+              Restricted II                  70            160        170 19 7 22 8 25 4 27 6 29 2 30 5 31 4              32 0
+
+
+                                                                                                                              Table A.5.3
+                                                                 Factor X\
+                                        B/d                     X\                B/d              X\
+                                 2 4 and below               10                 30                0 90
+                                      25                    0 98                3 I               0 88
+                                      26                    0 96                32                0 86
+                                       2.7                  0 95                 33               0 84
+                                       28                   0 93                34                0 82
+                                      2.9                   0.91           3 5 and above          0 80
+
+
+
+                                                                       63
+I i РАВНЯЛ БЕЗОПАСНОСТИ МОРСКОЙ ПЕРЕВОЗКИ ГРУЗОВ
+
+
+
+                                                                                   Таблица П.5.4
+                                           М ножитель Х 2
+
+                                Сц 0,45 и 0:5 0,55 0,6 0,65 0,7 и
+                                   менее                     более
+                                Хг  0,75  0,82 0,89 0,95 0,97 1,0
+
+     2.2.2.2.      Если судно имеет скуловые кили или брусковый киль, или то и другое
+вместе, амплитуда качки, град, должна вычисляться по формуле:
+                                                                                         (П.5.8)
+
+где
+       к - коэффициент, который принимается по табл. И.5.5 в зависимости от
+           отношения Ак /LB в %;
+      АК- суммарная габаритная площадь скуловых килей, либо площадь боковой
+           проекции брускового киля, либо сумма этих площадей, м2;
+       L - длина судна между перпендикулярами, м.
+
+     Скуловые кили не принимаются во внимание для судов, которые имеют в
+символе класса знаки категории ледовых усилений.
+                                                             Таблица П.5.5
+                                 Коэффициент к
+                                                                               4,0 и
+                15 ■*      0      1,0     1,5      2,0    2,5    3,0    3,5
+                                                                               более
+                  к      1,00     0,98   0,95      0,88   0,79   0,74   0,72    0,70
+
+     2.2.2.3. Амплитуду качки судна с острой скулой следует принимать равной
+70% амплитуды, вычисленной по формуле П.5.7.
+     2.2.2.4. Амплитуда качки судов, снабженных успокоителями качки, должна
+определяться без учета их работы.
+     2.2.2.5. Расчетные значения амплитуды качки следует округлять до десятых
+долей градусов.
+      2.2.2.6. Расчетные значения амплитуды качки судов смешанного (река - море)
+плавания следует определять как для судов Ограниченного П района плавания, или
+по отдельным методикам, одобренным в установленном порядке.
+
+
+
+
+                                                   64
+                                                                       R ules for Safe c a r r ia g e of car g oes in аьл
+
+
+
+                                                                                                            Table A.5.4
+                                                     F acto r^
+                                                                               0.7 and
+                                Cn 0,45 and     0.5    0.55    0.6     0.65
+                                     below                                      above
+                                Xi    0.75     0.82 0.89 0.95 0.97                   1.0
+
+2.222        If the ship has bilge keels or a bar keel, or both, the rolling amplitude, in
+deg., should be calculated by the formula:
+                                                    e* = *eIr,                                                  (A.5.8)
+where
+       к - factor, which is accepted according to table A.5.5, depending upon ratio A^/ LB;
+           in %;
+     Ak - total overall area of bilge keels, or lateral projection area of the bar keel, or a
+           sum of these areas, m2;
+      L - length of the ship between the perpendiculars, m.
+Bilge keels are not to be taken into consideration where ships have the ice category in
+their class notation.
+                                                                                 Table A.5.5
+                                                      Factor к
+
+               —       %                                                                          4.0 and
+               LB ' Л       0        1.0      1.5       2.0      2.5          3.0          3.5
+                                                                                                   above
+                   к       I 00      0.98     0.95      0.88     0.79         0.74         0.72    0.70
+
+2223        The value of rolling amplitude for a ship having a sharp bilge should be
+assumed to be equal to 70 % of the amplitude, calculated according to formula A.5.7.
+2.2.2.4    The rolling amplitude of ships provided with anti-roll devices should be
+determined taking no account of operation of these devices.
+2.2.2.5      The calculated values of the rolling amplitude should be rounded off to the
+tenth of degrees.
+2.2.2.6     Calculated values of the roiling amplitude for river-sea navigation ships
+should be determined in the same way as for the ships of Restricted II navigation area or
+according to individual methods approved in the established order.
+
+
+
+
+                                                         65
+П р а в и л а б е з о п а с н о й и м о р с к о й п е р е в о з к и гр уз о в
+
+
+      2.2.3. Определение угла динамического крена судна при одновременном
+действии внезапно приложенного момента от ветрового шквала и бортовой качки.
+      Наибольший динамический крен получается в том случае, если в момент
+внезапного приложения ветрового кренящего момента судно имело от качки
+наибольшее наклонение на противоположный борт. Для определения угла
+динамического крена диаграмма динамической остойчивости продолжается в
+сторону отрицательных абсцисс и на ней фиксируется точка А, соответствующая
+заданной амплитуде <9,„ качки. Из точки А проводят прямую, параллельную оси
+абсцисс, и на ней откладывают отрезок /Ш, равный одному радиану (57,3°). Из
+точки В откладывают перпендикулярно вверх отрезок ВС, равный плечу !кр
+заданного кренящего момента. Абсцисса точки Е пересечения прямой АС с
+диаграммой динамической остойчивости определяет искомый угол динамического
+крена       .
+
+
+
+
+      2.3. Обеспечение продольной устойчивости грузовых мест и штабелей
+структурообразующих грузов должно быть дополнительно проверено при
+расчетной амплитуде килевой качки конкретного судна или при условном
+расчетном статическом угле дифферента судна в 17°. Такая проверка должна
+выполняться с учетом коэффициентов трения использованных материалов и с
+соблюдением баланса соответствующих моментов.
+      3.       Пели по результатам расчета по формуле П.5.1 критерий несмещаемости
+оказывается меньше 1,0, то это свидетельствует о необходимости крепления,
+прочность которого с каждого борта определяется нагрузкой Q, тс, возникающей от
+превышения угла динамического крена над углом динамической устойчивости
+груза, и рассчитывается по формуле:
+                                                            2 = » • Р ■ UgQjy,, - 1Ф , ).   (П.5.9)
+где    п - число грузовых мест, нуждающихся в креплении;
+       р - средняя масса грузового места, т.
+      Количество необходимых найтовов N определяется схемой их наложения и
+безопасной (максимальной) рабочей нагрузкой SWL или предельной нагрузкой BL
+(см. приложение № 6 к настоящим Правилам).
+      При совпадении линии найтова с направлением действия нагрузки количество
+N необходимых найтовов на каждую закрепляемую часть груза определяется
+схемой их установки и их безопасной (максимальной) рабочей нагрузкой SWL, если
+груз уложен в грузовых помещениях, или их разрывной нагрузкой BL, если груз
+размещается на верхней палубе и крышках люков, по формуле:
+                                                                   N - Q/SWL (BL).          (П.5.10)
+
+                                                                                66
+                                                        K U U iS ГОЯ Ъ А \ : \i LARRIAltl: 01 U \K W > IA m Л1:л
+
+
+2.2.3 Determination of the ship's dynamic heeling angle at simultaneously action of a
+suddenly applied moment of wind squall and the ship’s roiling.
+The maximum dynamic heel occurs, if at the instant of sudden application of heeling
+moment, the ship had the largest list towards the opposite side caused by rolling. In order
+to determine the dynamic heel angle, the diagram of the dynamic stability should be
+extended in the direction of the negative abscissa, and point // corresponding to the
+amplitude of rolling      should be fixed on it. Then a straight line should be drawn from
+point A, parallel to the axis of abscissa, and segment AB, equal to one radian (57.3°),
+should be laid off on it. From point В segment BC> equal to the lever of the given heeling
+moment       should be laid off perpendicularly upwards. The abscissa of point E at the
+crossing of the straight line AC with the diagram of dynamic stability indicates the
+
+
+
+
+2.3 The longitudinal stability of cargo units and stacks of structuiizing cargoes should be
+additionally checked at the calculated pitch amplitude of the ship or at arbitrarily
+calculated value of static trim angle of 17°. Such inspection should be carried out taking
+into account the friction coefficients of the used materials and keeping the balance of the
+respective moments.
+3     If, as a result of a calculation according to formula A.5.1, non-shift criterion's value
+of the cargo proves to be less than 1.0, it indicates that the necessity of its securing exists,
+specifying that the stiength of the securing devices from each side of the ship is
+determined by the load Q, t(f), arising in case the dynamic heeling angle exceeds the
+cargo dynamic stability angle and is calculated according to the formula:
+                                    Q = P'(tg®Jytl -/£©*),                              (A.5.9)
+   where         n - quantity of cargo units to be secured, pcs.;
+                 P - average mass of a cargo unit, t.
+The quantity of the required lashings N is determined by the scheme of their attachment
+and safe (maximum) working load SWL or breaking load BL (see Annex No, 6 to the
+present Rules).
+In case a lashing line coincides with the direction of load’s action, thi quantity /V of the
+required lashings per each part of the cargo to be secured is determined by the scheme of
+their attachment and their safe (maximum) working load {SWL), if the cargo is stowed in
+cargo compartments, or their breaking load (BL), if the cargo is stowed on the upper deck
+and hatch covers, by the formula:
+                                        N = QiSWL(BL).                                 (A.5.10)
+
+                                              67
+IД а в и л а ыпоплсносш м о р с к о й п е р е в о з к и г р у з о в
+
+                                                                                                    ПРИЛОЖЕНИЕ № 6
+                                                                                               к Правилам безопасности
+                                                                                               морской перевозки грузов
+                                                                                                            (пп. 61,62)
+
+                                                                                                                  Таблица П .6.1
+                                        Нормы прочности средств крепления
+                                            Безопасная максимальная               Пробная          Предельная        Запас
+             Вид средства
+                                                рабочая нагрузка,                 нагрузка,         нагрузка,      прочности,
+              крепления
+                                                      SWL                            TL                BL              К
+     Тросовые май говы
+     одноразовые                                          0,8 UL                  i,00 SWL          1,25 SWL          1,25
+     Тросовые найтовы
+     многоразового                                       0,33 BL                  1,25 SWL          3,0 SWL            3
+     использовании
+     Цепные найтовы                                       0,5 BL                  1,25 SWL          2,0 SWL            2
+     Скобы, рымы, обуха,
+                                                          0,5 BL                  1,25 SWL          2,0 SWL            2
+     пшрепм in мягкой стали
+     Прочие устройства                                    0,5 BL                  1,25 SWL          2,0 SWL            2
+     Стальная лента                                       0,5 BL                      -             2,0 SWL            2
+
+                                                                            Таблица П.6.2
+                       Ориентировочный расход средств крепления на 1 т груза
+                                               Лес,         Проволока,         Гвозди,    Трое,        Талрепы, Зажимы,
+                     Груз                                       кг                кг
+                                                 м3                                         м             ил\     шт.
+     Металлопродукция                          0,020           3,4              0,080      6,0            0,8      2
+     Подвижная техника,                                          2,6           0,300
+                                               0,005                                          6,0           1,2            7
+     масса до 2 т
+     Подвижная техника,                                          2,4            0,100
+                                                0,008                                         3,6          2,0             7
+     масса or 3 до 12 т
+     Подвижная техника,                                                         0,060
+     масса свыше 12 т                           0,009                 -                       L2           0,6             2
+     'Грубы стальные большого                                                   0,060
+                                                0,020                 -                       2,8          0,6             3
+     диаметра
+     Крупногабаритные грузы                     0,008                 -         0,080
+     МИЛ III IJipi 1ЧССКО й ф о р мы
+                                                                                              2,5        •'0 .6            4
+     Металлические бочки н                                                      0,006
+                                                0,005            2,5                           -             -             -
+     барабаны
+     Тарно-штучные грузы,                                                       0,02
+                                                0,002                                          -              -            -
+     ящики, мешки ит.д
+     Ящики и неупакованное
+                                                0,020            2,1            0,400         4,0          0,6             2
+     оборудование, масса 2-20 т
+     Обо руло ванне, масса
+                                                0,020                 -         0,400         3,2          0,6             3
+     свыше 20 т
+      В среднем                                 0,011             1,3           0,087         3,0          0,7             3
+
+
+
+
+                                                                          68
+                                                                                R ules i;ok Sa m C arriage oi: C argoes B y Sea
+
+                                                                                                        ANNEX No. 6
+                                                                                        to the Rules for Safe Carriage
+                                                                                                    o f Cargoes by Sea
+                                                                                                            (p. 6 1 .6 2 )
+
+                                                                                                               Table A.6.1
+                                        The Standards for strength o f Cargo Securing Devices
+
+                                                     Safe (Maximum)
+                                                                              Proof load Breaking load Safety factor
+                            Kind ol device            Working Load
+                                                                                 PL           BL             к
+                                                           SWL
+                      Wire Rope, single use               0 8 BL               1.00 SWL       1 25 SWL            1.25
+                      Wire Rope, re-useable              0 33 BL.              1.25 SWL       3 0 SWL              3
+                      Chain lashings                     0.5 BL                1.25 SWL       2.0 SWL              2
+                      Shackles, eye rings mid eye
+                      plates, turnbuckles of mild          0.5 BL              1.25 SWL       2 0 SWL              2
+                      steel
+                      Other devices                        0 5 BL              1.25 SWL       2 0 SWL              2
+                      Steel band, single use               0.5 BL                   -         2 0 SWL              2
+
+                                                                                                               Table A.6.2
+                                       Approximate consumption o f Cargo Securing materials
+                                                   and Devices per 1 t o f cargo
+                                                    Timber,     Wire,        Nails,    Rope, Turnbuckles,        Clamps,
+                                  Cargo
+                                                       m3        kg            kg       m        pcs               pcs
+                      Metal products                 0.020       3.4         0.080      60       08                 2
+                      Vehicles
+                                                     0 005      2.6          0 300      60           1.2            7
+                      of up to 2 t mass
+                      Vehicles
+                                                     0 008      2.4          0.100      3.6          2.0            7
+                      of from 3 to 12 t mass
+                      Vehicles
+                                                     0.009          -        0.060      1.2          0.6            2
+                      of above 12 l mass
+                      Steel pipes
+                                                     0.020          -        0.060      2.8          0.6            3
+                      of big diameter
+                      Large-dimensional cargoes
+                                                     0.008          -        0.080      25           0.6            4
+                      of cylindrical shape
+                      Metal barrels
+                                                     0 005      2.5          0.006        -           -                -
+                      and drums
+                      Break bulk cargoes,
+                                                     0 002          -        0.02         -           -                -
+                      boxes, sacks, etc
+                      Boxes and unpackaged
+                                                     0 020      21           0 400      4.0          0.6            2
+                      equipment of 2-201mass
+                                                                                                       i
+                      equipment
+                                                     0.020          -        0.400      32           0.6            3
+                      of above 20 1mass
+РД 31.11.21.16-2003
+                      On average                     ООП            13       0.087      3.0          07             3
+
+
+                                                                        69
+
